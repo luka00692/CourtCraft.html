@@ -45,6 +45,7 @@ file-based routing convention), and just call into `backend/lib/handlers.js`.
 ```
 npm install
 npm start          # http://localhost:4000
+npm test           # runs backend/test/handlers.test.js (Node's built-in test runner, no extra dependency)
 ```
 
 Endpoints:
