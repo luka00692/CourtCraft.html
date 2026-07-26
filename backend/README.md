@@ -33,6 +33,7 @@ backend/
     generate-season.js                 generates the next (future) season from the latest one
     generate-historical-seasons.js     backfills seasons before the earliest known one
     promote-season.js                  makes a season the site's default, once it has real stats
+    add-players.js                     adds new players to the roster + every existing season
   server.js                  local Express dev server
 ```
 
@@ -61,6 +62,39 @@ Per-season player stats include `gp` (games played, 0-82) alongside `ppg` /
 that season (e.g. a 2024 rookie has no `2021-2022` season) gets `stats: null`
 in the response instead of fabricated numbers — the frontend hides them for
 that season rather than showing a stat line that never happened.
+
+## Adding players
+
+New players need bio info (`roster.json`), a baseline season stat line, and
+projected/historical stats for every other season — `add-players.js` does
+all three in one pass, given just their bio + 2025-2026 stats:
+
+```
+node backend/scripts/add-players.js path/to/new-players.json
+```
+
+Input is a JSON array of objects shaped like:
+
+```json
+{
+  "id": "kebab-case-unique-slug",
+  "name": "Full Name", "first": "First", "team": "Team Name",
+  "position": "Guard" | "Forward" | "Center",
+  "number": "0", "height": "6'5\"", "weight": "200 lb",
+  "exp": "5 seasons",
+  "accentKey": "G" | "D" | "M6" | "M4" | "M7" | "M3",
+  "achievements": [{ "c": "1", "l": "All-Star" }],
+  "philosophy": "...",
+  "trainTemplate": "GUARD" | "WING" | "BIG",
+  "stats2025_2026": { "ppg": "20.0", "rpg": "5.0", "apg": "5.0", "spg": "1.0", "fg": 47, "tp": 36, "ft": 80 }
+}
+```
+
+It refuses to run if any `id` already exists in `roster.json`. New players
+also need adding to the frontend's static `PLAYERS` array in `index.html`
+(bio + baseline stats, in the same shape as the existing entries) — the API
+only supplies the season-specific overlay for ids the frontend already knows
+about.
 
 ## Historical seasons
 

@@ -1002,6 +1002,506 @@
       "tp": 34,
       "ft": 78,
       "gp": 77
+    },
+    "jalen-suggs": {
+      "ppg": "12.5",
+      "rpg": "3.8",
+      "apg": "3.5",
+      "spg": "1.4",
+      "fg": 45,
+      "tp": 35,
+      "ft": 78,
+      "gp": 73
+    },
+    "kentavious-caldwell-pope": {
+      "ppg": "10.5",
+      "rpg": "2.6",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 44,
+      "tp": 38,
+      "ft": 82,
+      "gp": 81
+    },
+    "wendell-carter-jr": {
+      "ppg": "12.0",
+      "rpg": "8.5",
+      "apg": "2.8",
+      "spg": "0.7",
+      "fg": 51,
+      "tp": 33,
+      "ft": 72,
+      "gp": 78
+    },
+    "anthony-black": {
+      "ppg": "8.5",
+      "rpg": "3.5",
+      "apg": "3.8",
+      "spg": "1.0",
+      "fg": 44,
+      "tp": 33,
+      "ft": 70,
+      "gp": 72
+    },
+    "jonathan-isaac": {
+      "ppg": "7.5",
+      "rpg": "5.0",
+      "apg": "1.0",
+      "spg": "1.0",
+      "fg": 52,
+      "tp": 36,
+      "ft": 68,
+      "gp": 66
+    },
+    "jalen-johnson": {
+      "ppg": "18.5",
+      "rpg": "8.5",
+      "apg": "3.5",
+      "spg": "1.2",
+      "fg": 48,
+      "tp": 34,
+      "ft": 72,
+      "gp": 79
+    },
+    "onyeka-okongwu": {
+      "ppg": "12.5",
+      "rpg": "8.0",
+      "apg": "1.8",
+      "spg": "0.9",
+      "fg": 58,
+      "tp": 30,
+      "ft": 73,
+      "gp": 67
+    },
+    "nickeil-alexander-walker": {
+      "ppg": "11.0",
+      "rpg": "3.0",
+      "apg": "3.0",
+      "spg": "1.3",
+      "fg": 43,
+      "tp": 36,
+      "ft": 78,
+      "gp": 75
+    },
+    "alex-caruso": {
+      "ppg": "9.5",
+      "rpg": "3.5",
+      "apg": "3.5",
+      "spg": "1.7",
+      "fg": 47,
+      "tp": 39,
+      "ft": 80,
+      "gp": 69
+    },
+    "isaiah-hartenstein": {
+      "ppg": "8.5",
+      "rpg": "8.5",
+      "apg": "3.0",
+      "spg": "0.8",
+      "fg": 62,
+      "tp": 20,
+      "ft": 68,
+      "gp": 78
+    },
+    "luguentz-dort": {
+      "ppg": "11.5",
+      "rpg": "3.8",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 43,
+      "tp": 35,
+      "ft": 75,
+      "gp": 82
+    },
+    "aaron-wiggins": {
+      "ppg": "10.0",
+      "rpg": "3.5",
+      "apg": "1.8",
+      "spg": "0.9",
+      "fg": 47,
+      "tp": 39,
+      "ft": 78,
+      "gp": 68
+    },
+    "cason-wallace": {
+      "ppg": "8.0",
+      "rpg": "2.8",
+      "apg": "2.5",
+      "spg": "1.3",
+      "fg": 45,
+      "tp": 37,
+      "ft": 75,
+      "gp": 81
+    },
+    "jaylen-wells": {
+      "ppg": "12.5",
+      "rpg": "3.5",
+      "apg": "1.8",
+      "spg": "0.9",
+      "fg": 44,
+      "tp": 38,
+      "ft": 82,
+      "gp": 71
+    },
+    "santi-aldama": {
+      "ppg": "12.5",
+      "rpg": "6.0",
+      "apg": "2.0",
+      "spg": "0.8",
+      "fg": 48,
+      "tp": 36,
+      "ft": 75,
+      "gp": 74
+    },
+    "ty-jerome": {
+      "ppg": "11.0",
+      "rpg": "3.0",
+      "apg": "4.0",
+      "spg": "0.8",
+      "fg": 45,
+      "tp": 40,
+      "ft": 88,
+      "gp": 82
+    },
+    "ivica-zubac": {
+      "ppg": "16.5",
+      "rpg": "12.5",
+      "apg": "2.0",
+      "spg": "0.7",
+      "fg": 65,
+      "tp": 10,
+      "ft": 75,
+      "gp": 78
+    },
+    "james-harden": {
+      "ppg": "24.5",
+      "rpg": "5.8",
+      "apg": "8.5",
+      "spg": "1.5",
+      "fg": 44,
+      "tp": 36,
+      "ft": 86,
+      "gp": 71
+    },
+    "bogdan-bogdanovic": {
+      "ppg": "14.5",
+      "rpg": "3.5",
+      "apg": "3.0",
+      "spg": "0.9",
+      "fg": 44,
+      "tp": 38,
+      "ft": 85,
+      "gp": 81
+    },
+    "brook-lopez": {
+      "ppg": "13.0",
+      "rpg": "5.5",
+      "apg": "1.5",
+      "spg": "0.5",
+      "fg": 48,
+      "tp": 36,
+      "ft": 80,
+      "gp": 70
+    },
+    "donte-divincenzo": {
+      "ppg": "13.5",
+      "rpg": "3.8",
+      "apg": "3.0",
+      "spg": "1.1",
+      "fg": 43,
+      "tp": 38,
+      "ft": 82,
+      "gp": 72
+    },
+    "naz-reid": {
+      "ppg": "15.0",
+      "rpg": "6.5",
+      "apg": "2.0",
+      "spg": "0.7",
+      "fg": 49,
+      "tp": 37,
+      "ft": 76,
+      "gp": 80
+    },
+    "mike-conley": {
+      "ppg": "11.5",
+      "rpg": "2.8",
+      "apg": "5.5",
+      "spg": "1.0",
+      "fg": 45,
+      "tp": 40,
+      "ft": 84,
+      "gp": 70
+    },
+    "jaden-mcdaniels": {
+      "ppg": "12.0",
+      "rpg": "4.5",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 48,
+      "tp": 39,
+      "ft": 78,
+      "gp": 76
+    },
+    "rob-dillingham": {
+      "ppg": "7.0",
+      "rpg": "1.8",
+      "apg": "2.5",
+      "spg": "0.6",
+      "fg": 42,
+      "tp": 34,
+      "ft": 80,
+      "gp": 82
+    },
+    "nikola-jovic": {
+      "ppg": "11.0",
+      "rpg": "4.5",
+      "apg": "2.5",
+      "spg": "0.7",
+      "fg": 46,
+      "tp": 36,
+      "ft": 78,
+      "gp": 79
+    },
+    "terry-rozier": {
+      "ppg": "14.5",
+      "rpg": "3.5",
+      "apg": "4.5",
+      "spg": "1.0",
+      "fg": 42,
+      "tp": 37,
+      "ft": 84,
+      "gp": 79
+    },
+    "kelel-ware": {
+      "ppg": "12.5",
+      "rpg": "8.5",
+      "apg": "1.2",
+      "spg": "0.6",
+      "fg": 55,
+      "tp": 33,
+      "ft": 70,
+      "gp": 68
+    },
+    "jaime-jaquez-jr": {
+      "ppg": "12.5",
+      "rpg": "4.0",
+      "apg": "2.8",
+      "spg": "0.8",
+      "fg": 48,
+      "tp": 33,
+      "ft": 78,
+      "gp": 75
+    },
+    "collin-sexton": {
+      "ppg": "18.5",
+      "rpg": "3.0",
+      "apg": "4.0",
+      "spg": "0.9",
+      "fg": 46,
+      "tp": 37,
+      "ft": 85,
+      "gp": 65
+    },
+    "miles-bridges": {
+      "ppg": "20.0",
+      "rpg": "7.0",
+      "apg": "3.2",
+      "spg": "0.9",
+      "fg": 45,
+      "tp": 35,
+      "ft": 78,
+      "gp": 79
+    },
+    "grant-williams": {
+      "ppg": "9.0",
+      "rpg": "4.5",
+      "apg": "1.8",
+      "spg": "0.8",
+      "fg": 45,
+      "tp": 38,
+      "ft": 78,
+      "gp": 75
+    },
+    "daniel-gafford": {
+      "ppg": "11.5",
+      "rpg": "7.5",
+      "apg": "1.0",
+      "spg": "0.6",
+      "fg": 68,
+      "tp": 0,
+      "ft": 68,
+      "gp": 71
+    },
+    "pj-washington": {
+      "ppg": "13.5",
+      "rpg": "6.0",
+      "apg": "2.0",
+      "spg": "0.9",
+      "fg": 45,
+      "tp": 37,
+      "ft": 72,
+      "gp": 66
+    },
+    "max-christie": {
+      "ppg": "10.5",
+      "rpg": "3.5",
+      "apg": "2.0",
+      "spg": "0.9",
+      "fg": 46,
+      "tp": 38,
+      "ft": 80,
+      "gp": 67
+    },
+    "walker-kessler": {
+      "ppg": "10.5",
+      "rpg": "10.5",
+      "apg": "1.2",
+      "spg": "0.6",
+      "fg": 62,
+      "tp": 0,
+      "ft": 62,
+      "gp": 70
+    },
+    "keyonte-george": {
+      "ppg": "15.5",
+      "rpg": "3.5",
+      "apg": "5.5",
+      "spg": "1.0",
+      "fg": 42,
+      "tp": 34,
+      "ft": 82,
+      "gp": 80
+    },
+    "kyle-filipowski": {
+      "ppg": "11.5",
+      "rpg": "6.5",
+      "apg": "2.5",
+      "spg": "0.7",
+      "fg": 46,
+      "tp": 33,
+      "ft": 75,
+      "gp": 72
+    },
+    "isaiah-collier": {
+      "ppg": "9.0",
+      "rpg": "3.8",
+      "apg": "5.5",
+      "spg": "1.2",
+      "fg": 45,
+      "tp": 28,
+      "ft": 68,
+      "gp": 71
+    },
+    "ausar-thompson": {
+      "ppg": "10.5",
+      "rpg": "6.0",
+      "apg": "2.8",
+      "spg": "1.5",
+      "fg": 55,
+      "tp": 28,
+      "ft": 65,
+      "gp": 70
+    },
+    "ron-holland": {
+      "ppg": "9.0",
+      "rpg": "4.5",
+      "apg": "1.8",
+      "spg": "0.9",
+      "fg": 47,
+      "tp": 30,
+      "ft": 68,
+      "gp": 70
+    },
+    "jose-alvarado": {
+      "ppg": "8.5",
+      "rpg": "2.5",
+      "apg": "3.8",
+      "spg": "1.6",
+      "fg": 43,
+      "tp": 34,
+      "ft": 78,
+      "gp": 76
+    },
+    "trey-murphy-iii": {
+      "ppg": "18.5",
+      "rpg": "5.0",
+      "apg": "2.5",
+      "spg": "1.0",
+      "fg": 47,
+      "tp": 39,
+      "ft": 85,
+      "gp": 67
+    },
+    "yves-missi": {
+      "ppg": "8.5",
+      "rpg": "7.5",
+      "apg": "1.0",
+      "spg": "0.6",
+      "fg": 60,
+      "tp": 0,
+      "ft": 62,
+      "gp": 65
+    },
+    "andrew-nembhard": {
+      "ppg": "10.5",
+      "rpg": "3.0",
+      "apg": "5.0",
+      "spg": "1.1",
+      "fg": 47,
+      "tp": 38,
+      "ft": 82,
+      "gp": 70
+    },
+    "bennedict-mathurin": {
+      "ppg": "16.5",
+      "rpg": "4.5",
+      "apg": "1.8",
+      "spg": "0.8",
+      "fg": 45,
+      "tp": 36,
+      "ft": 82,
+      "gp": 77
+    },
+    "aaron-nesmith": {
+      "ppg": "12.0",
+      "rpg": "4.5",
+      "apg": "1.5",
+      "spg": "1.0",
+      "fg": 48,
+      "tp": 40,
+      "ft": 82,
+      "gp": 65
+    },
+    "toumani-camara": {
+      "ppg": "11.5",
+      "rpg": "5.5",
+      "apg": "2.0",
+      "spg": "1.0",
+      "fg": 46,
+      "tp": 35,
+      "ft": 75,
+      "gp": 67
+    },
+    "donovan-clingan": {
+      "ppg": "10.0",
+      "rpg": "8.5",
+      "apg": "1.5",
+      "spg": "0.6",
+      "fg": 58,
+      "tp": 0,
+      "ft": 68,
+      "gp": 67
+    },
+    "scoot-henderson": {
+      "ppg": "13.5",
+      "rpg": "3.8",
+      "apg": "5.5",
+      "spg": "1.0",
+      "fg": 42,
+      "tp": 31,
+      "ft": 78,
+      "gp": 69
     }
   },
   "trainingFocus": {
@@ -1402,6 +1902,206 @@
       "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
     },
     "flagg": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jalen-suggs": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "kentavious-caldwell-pope": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "wendell-carter-jr": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "anthony-black": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jonathan-isaac": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jalen-johnson": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "onyeka-okongwu": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "nickeil-alexander-walker": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "alex-caruso": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "isaiah-hartenstein": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "luguentz-dort": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "aaron-wiggins": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "cason-wallace": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jaylen-wells": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "santi-aldama": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "ty-jerome": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "ivica-zubac": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "james-harden": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "bogdan-bogdanovic": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "brook-lopez": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "donte-divincenzo": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "naz-reid": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "mike-conley": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jaden-mcdaniels": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "rob-dillingham": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "nikola-jovic": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "terry-rozier": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "kelel-ware": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jaime-jaquez-jr": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "collin-sexton": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "miles-bridges": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "grant-williams": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "daniel-gafford": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "pj-washington": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "max-christie": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "walker-kessler": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "keyonte-george": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "kyle-filipowski": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "isaiah-collier": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "ausar-thompson": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "ron-holland": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "jose-alvarado": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "trey-murphy-iii": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "yves-missi": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "andrew-nembhard": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "bennedict-mathurin": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "aaron-nesmith": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "toumani-camara": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "donovan-clingan": {
+      "headline": "Baseline season on record.",
+      "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
+    },
+    "scoot-henderson": {
       "headline": "Baseline season on record.",
       "note": "This is the most recent completed-season snapshot used as the projection baseline for future seasons."
     }

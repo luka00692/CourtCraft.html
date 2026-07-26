@@ -1002,6 +1002,506 @@
       "tp": 36,
       "ft": 80,
       "gp": 64
+    },
+    "jalen-suggs": {
+      "ppg": "12.9",
+      "rpg": "3.9",
+      "apg": "3.6",
+      "spg": "1.4",
+      "fg": 46,
+      "tp": 36,
+      "ft": 79,
+      "gp": 75
+    },
+    "kentavious-caldwell-pope": {
+      "ppg": "10.3",
+      "rpg": "2.5",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 44,
+      "tp": 38,
+      "ft": 82,
+      "gp": 79
+    },
+    "wendell-carter-jr": {
+      "ppg": "12.1",
+      "rpg": "8.6",
+      "apg": "2.8",
+      "spg": "0.7",
+      "fg": 51,
+      "tp": 33,
+      "ft": 72,
+      "gp": 79
+    },
+    "anthony-black": {
+      "ppg": "9.0",
+      "rpg": "3.7",
+      "apg": "4.0",
+      "spg": "1.1",
+      "fg": 46,
+      "tp": 35,
+      "ft": 72,
+      "gp": 78
+    },
+    "jonathan-isaac": {
+      "ppg": "7.6",
+      "rpg": "5.1",
+      "apg": "1.0",
+      "spg": "1.0",
+      "fg": 52,
+      "tp": 36,
+      "ft": 68,
+      "gp": 82
+    },
+    "jalen-johnson": {
+      "ppg": "19.1",
+      "rpg": "8.8",
+      "apg": "3.6",
+      "spg": "1.2",
+      "fg": 49,
+      "tp": 35,
+      "ft": 73,
+      "gp": 77
+    },
+    "onyeka-okongwu": {
+      "ppg": "12.9",
+      "rpg": "8.2",
+      "apg": "1.9",
+      "spg": "0.9",
+      "fg": 59,
+      "tp": 31,
+      "ft": 74,
+      "gp": 78
+    },
+    "nickeil-alexander-walker": {
+      "ppg": "11.3",
+      "rpg": "3.1",
+      "apg": "3.1",
+      "spg": "1.3",
+      "fg": 44,
+      "tp": 37,
+      "ft": 79,
+      "gp": 74
+    },
+    "alex-caruso": {
+      "ppg": "9.6",
+      "rpg": "3.5",
+      "apg": "3.5",
+      "spg": "1.7",
+      "fg": 47,
+      "tp": 39,
+      "ft": 80,
+      "gp": 74
+    },
+    "isaiah-hartenstein": {
+      "ppg": "8.6",
+      "rpg": "8.6",
+      "apg": "3.0",
+      "spg": "0.8",
+      "fg": 62,
+      "tp": 20,
+      "ft": 68,
+      "gp": 77
+    },
+    "luguentz-dort": {
+      "ppg": "11.8",
+      "rpg": "3.9",
+      "apg": "1.9",
+      "spg": "1.0",
+      "fg": 44,
+      "tp": 36,
+      "ft": 76,
+      "gp": 79
+    },
+    "aaron-wiggins": {
+      "ppg": "10.3",
+      "rpg": "3.6",
+      "apg": "1.9",
+      "spg": "0.9",
+      "fg": 48,
+      "tp": 40,
+      "ft": 79,
+      "gp": 76
+    },
+    "cason-wallace": {
+      "ppg": "8.5",
+      "rpg": "3.0",
+      "apg": "2.7",
+      "spg": "1.4",
+      "fg": 47,
+      "tp": 39,
+      "ft": 77,
+      "gp": 66
+    },
+    "jaylen-wells": {
+      "ppg": "13.3",
+      "rpg": "3.7",
+      "apg": "1.9",
+      "spg": "1.0",
+      "fg": 46,
+      "tp": 40,
+      "ft": 84,
+      "gp": 82
+    },
+    "santi-aldama": {
+      "ppg": "12.9",
+      "rpg": "6.2",
+      "apg": "2.1",
+      "spg": "0.8",
+      "fg": 49,
+      "tp": 37,
+      "ft": 76,
+      "gp": 75
+    },
+    "ty-jerome": {
+      "ppg": "11.3",
+      "rpg": "3.1",
+      "apg": "4.1",
+      "spg": "0.8",
+      "fg": 46,
+      "tp": 41,
+      "ft": 89,
+      "gp": 74
+    },
+    "ivica-zubac": {
+      "ppg": "16.7",
+      "rpg": "12.6",
+      "apg": "2.0",
+      "spg": "0.7",
+      "fg": 65,
+      "tp": 20,
+      "ft": 75,
+      "gp": 80
+    },
+    "james-harden": {
+      "ppg": "23.3",
+      "rpg": "5.5",
+      "apg": "8.1",
+      "spg": "1.4",
+      "fg": 43,
+      "tp": 35,
+      "ft": 85,
+      "gp": 68
+    },
+    "bogdan-bogdanovic": {
+      "ppg": "14.6",
+      "rpg": "3.5",
+      "apg": "3.0",
+      "spg": "0.9",
+      "fg": 44,
+      "tp": 38,
+      "ft": 85,
+      "gp": 79
+    },
+    "brook-lopez": {
+      "ppg": "12.4",
+      "rpg": "5.2",
+      "apg": "1.4",
+      "spg": "0.5",
+      "fg": 47,
+      "tp": 35,
+      "ft": 79,
+      "gp": 70
+    },
+    "donte-divincenzo": {
+      "ppg": "13.6",
+      "rpg": "3.8",
+      "apg": "3.0",
+      "spg": "1.1",
+      "fg": 43,
+      "tp": 38,
+      "ft": 82,
+      "gp": 75
+    },
+    "naz-reid": {
+      "ppg": "15.5",
+      "rpg": "6.7",
+      "apg": "2.1",
+      "spg": "0.7",
+      "fg": 50,
+      "tp": 38,
+      "ft": 77,
+      "gp": 69
+    },
+    "mike-conley": {
+      "ppg": "10.9",
+      "rpg": "2.7",
+      "apg": "5.2",
+      "spg": "1.0",
+      "fg": 44,
+      "tp": 39,
+      "ft": 83,
+      "gp": 79
+    },
+    "jaden-mcdaniels": {
+      "ppg": "12.4",
+      "rpg": "4.6",
+      "apg": "1.9",
+      "spg": "1.0",
+      "fg": 49,
+      "tp": 40,
+      "ft": 79,
+      "gp": 75
+    },
+    "rob-dillingham": {
+      "ppg": "7.4",
+      "rpg": "1.9",
+      "apg": "2.7",
+      "spg": "0.6",
+      "fg": 44,
+      "tp": 36,
+      "ft": 82,
+      "gp": 79
+    },
+    "nikola-jovic": {
+      "ppg": "11.3",
+      "rpg": "4.6",
+      "apg": "2.6",
+      "spg": "0.7",
+      "fg": 47,
+      "tp": 37,
+      "ft": 79,
+      "gp": 66
+    },
+    "terry-rozier": {
+      "ppg": "14.6",
+      "rpg": "3.5",
+      "apg": "4.5",
+      "spg": "1.0",
+      "fg": 42,
+      "tp": 37,
+      "ft": 84,
+      "gp": 79
+    },
+    "kelel-ware": {
+      "ppg": "13.3",
+      "rpg": "9.0",
+      "apg": "1.3",
+      "spg": "0.6",
+      "fg": 57,
+      "tp": 35,
+      "ft": 72,
+      "gp": 75
+    },
+    "jaime-jaquez-jr": {
+      "ppg": "13.3",
+      "rpg": "4.2",
+      "apg": "3.0",
+      "spg": "0.8",
+      "fg": 50,
+      "tp": 35,
+      "ft": 80,
+      "gp": 75
+    },
+    "collin-sexton": {
+      "ppg": "18.7",
+      "rpg": "3.0",
+      "apg": "4.0",
+      "spg": "0.9",
+      "fg": 46,
+      "tp": 37,
+      "ft": 85,
+      "gp": 67
+    },
+    "miles-bridges": {
+      "ppg": "20.2",
+      "rpg": "7.1",
+      "apg": "3.2",
+      "spg": "0.9",
+      "fg": 45,
+      "tp": 35,
+      "ft": 78,
+      "gp": 81
+    },
+    "grant-williams": {
+      "ppg": "9.3",
+      "rpg": "4.6",
+      "apg": "1.9",
+      "spg": "0.8",
+      "fg": 46,
+      "tp": 39,
+      "ft": 79,
+      "gp": 64
+    },
+    "daniel-gafford": {
+      "ppg": "11.8",
+      "rpg": "7.7",
+      "apg": "1.0",
+      "spg": "0.6",
+      "fg": 69,
+      "tp": 20,
+      "ft": 69,
+      "gp": 80
+    },
+    "pj-washington": {
+      "ppg": "13.9",
+      "rpg": "6.2",
+      "apg": "2.1",
+      "spg": "0.9",
+      "fg": 46,
+      "tp": 38,
+      "ft": 73,
+      "gp": 68
+    },
+    "max-christie": {
+      "ppg": "10.8",
+      "rpg": "3.6",
+      "apg": "2.1",
+      "spg": "0.9",
+      "fg": 47,
+      "tp": 39,
+      "ft": 81,
+      "gp": 64
+    },
+    "walker-kessler": {
+      "ppg": "10.8",
+      "rpg": "10.8",
+      "apg": "1.2",
+      "spg": "0.6",
+      "fg": 63,
+      "tp": 20,
+      "ft": 63,
+      "gp": 77
+    },
+    "keyonte-george": {
+      "ppg": "16.4",
+      "rpg": "3.7",
+      "apg": "5.8",
+      "spg": "1.1",
+      "fg": 44,
+      "tp": 36,
+      "ft": 84,
+      "gp": 73
+    },
+    "kyle-filipowski": {
+      "ppg": "12.2",
+      "rpg": "6.9",
+      "apg": "2.7",
+      "spg": "0.7",
+      "fg": 48,
+      "tp": 35,
+      "ft": 77,
+      "gp": 74
+    },
+    "isaiah-collier": {
+      "ppg": "9.5",
+      "rpg": "4.0",
+      "apg": "5.8",
+      "spg": "1.3",
+      "fg": 47,
+      "tp": 30,
+      "ft": 70,
+      "gp": 77
+    },
+    "ausar-thompson": {
+      "ppg": "11.1",
+      "rpg": "6.4",
+      "apg": "3.0",
+      "spg": "1.6",
+      "fg": 57,
+      "tp": 30,
+      "ft": 67,
+      "gp": 78
+    },
+    "ron-holland": {
+      "ppg": "9.5",
+      "rpg": "4.8",
+      "apg": "1.9",
+      "spg": "1.0",
+      "fg": 49,
+      "tp": 32,
+      "ft": 70,
+      "gp": 65
+    },
+    "jose-alvarado": {
+      "ppg": "8.8",
+      "rpg": "2.6",
+      "apg": "3.9",
+      "spg": "1.6",
+      "fg": 44,
+      "tp": 35,
+      "ft": 79,
+      "gp": 67
+    },
+    "trey-murphy-iii": {
+      "ppg": "19.1",
+      "rpg": "5.2",
+      "apg": "2.6",
+      "spg": "1.0",
+      "fg": 48,
+      "tp": 40,
+      "ft": 86,
+      "gp": 64
+    },
+    "yves-missi": {
+      "ppg": "9.0",
+      "rpg": "8.0",
+      "apg": "1.1",
+      "spg": "0.6",
+      "fg": 62,
+      "tp": 20,
+      "ft": 64,
+      "gp": 67
+    },
+    "andrew-nembhard": {
+      "ppg": "10.8",
+      "rpg": "3.1",
+      "apg": "5.2",
+      "spg": "1.1",
+      "fg": 48,
+      "tp": 39,
+      "ft": 83,
+      "gp": 81
+    },
+    "bennedict-mathurin": {
+      "ppg": "17.0",
+      "rpg": "4.6",
+      "apg": "1.9",
+      "spg": "0.8",
+      "fg": 46,
+      "tp": 37,
+      "ft": 83,
+      "gp": 79
+    },
+    "aaron-nesmith": {
+      "ppg": "12.4",
+      "rpg": "4.6",
+      "apg": "1.5",
+      "spg": "1.0",
+      "fg": 49,
+      "tp": 41,
+      "ft": 83,
+      "gp": 79
+    },
+    "toumani-camara": {
+      "ppg": "12.2",
+      "rpg": "5.8",
+      "apg": "2.1",
+      "spg": "1.1",
+      "fg": 48,
+      "tp": 37,
+      "ft": 77,
+      "gp": 76
+    },
+    "donovan-clingan": {
+      "ppg": "10.6",
+      "rpg": "9.0",
+      "apg": "1.6",
+      "spg": "0.6",
+      "fg": 60,
+      "tp": 20,
+      "ft": 70,
+      "gp": 71
+    },
+    "scoot-henderson": {
+      "ppg": "14.3",
+      "rpg": "4.0",
+      "apg": "5.8",
+      "spg": "1.1",
+      "fg": 44,
+      "tp": 33,
+      "ft": 80,
+      "gp": 69
     }
   },
   "trainingFocus": {
@@ -2674,6 +3174,811 @@
           "note": "Same pre-shot routine every rep, under mild fatigue."
         }
       ]
+    },
+    "jalen-suggs": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "kentavious-caldwell-pope": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to reverse a projected dip in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "wendell-carter-jr": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "anthony-black": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "jonathan-isaac": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "jalen-johnson": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "onyeka-okongwu": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "nickeil-alexander-walker": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "alex-caruso": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "isaiah-hartenstein": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "luguentz-dort": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "aaron-wiggins": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "cason-wallace": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "jaylen-wells": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "santi-aldama": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "ty-jerome": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "ivica-zubac": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "james-harden": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to reverse a projected dip in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "bogdan-bogdanovic": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "brook-lopez": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to reverse a projected dip in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "donte-divincenzo": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "naz-reid": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "mike-conley": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to reverse a projected dip in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "jaden-mcdaniels": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "rob-dillingham": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "nikola-jovic": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "terry-rozier": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "kelel-ware": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "jaime-jaquez-jr": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "collin-sexton": {
+      "headline": "2026-2027 priority: rebounding",
+      "note": "Season projection flags rebounding as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "rpg",
+      "exercises": [
+        {
+          "name": "Box-out & pursuit drills",
+          "prescription": "5 × 6",
+          "note": "Contact, seal, and go get the ball off the rim."
+        },
+        {
+          "name": "Anticipation rebounding",
+          "prescription": "4 × 10",
+          "note": "React off missed-shot angles, not just position."
+        }
+      ]
+    },
+    "miles-bridges": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "grant-williams": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "daniel-gafford": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "pj-washington": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "max-christie": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "walker-kessler": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "keyonte-george": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "kyle-filipowski": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "isaiah-collier": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "ausar-thompson": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "ron-holland": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "jose-alvarado": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "trey-murphy-iii": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "yves-missi": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "andrew-nembhard": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "bennedict-mathurin": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "aaron-nesmith": {
+      "headline": "2026-2027 priority: playmaking",
+      "note": "Season projection flags playmaking as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "apg",
+      "exercises": [
+        {
+          "name": "Live-read passing series",
+          "prescription": "5 × 10",
+          "note": "Advantage creation into a live decision, not a script."
+        },
+        {
+          "name": "Pick-and-roll manipulation",
+          "prescription": "5 × 8",
+          "note": "Change speeds and angles to open a passing window."
+        }
+      ]
+    },
+    "toumani-camara": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
+    },
+    "donovan-clingan": {
+      "headline": "2026-2027 priority: perimeter defense",
+      "note": "Season projection flags perimeter defense as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "spg",
+      "exercises": [
+        {
+          "name": "Passing-lane anticipation",
+          "prescription": "5 × 30s",
+          "note": "Read the ball-handler’s eyes and hips to jump the lane."
+        },
+        {
+          "name": "Closeout-to-strip drills",
+          "prescription": "4 × 8",
+          "note": "Controlled closeouts that end in a strip, not a foul."
+        }
+      ]
+    },
+    "scoot-henderson": {
+      "headline": "2026-2027 priority: free-throw shooting",
+      "note": "Season projection flags free-throw shooting as the area to keep pushing a modest gain in — training below is weighted toward it.",
+      "priorityStat": "ft",
+      "exercises": [
+        {
+          "name": "Routine-locked free throws",
+          "prescription": "10 × 10",
+          "note": "Same pre-shot routine every rep, under mild fatigue."
+        }
+      ]
     }
   },
   "expByPlayer": {
@@ -2776,6 +4081,56 @@
     "castle": "3 seasons",
     "herbjones": "6 seasons",
     "dyson": "5 seasons",
-    "flagg": "2 seasons"
+    "flagg": "2 seasons",
+    "jalen-suggs": "6 seasons",
+    "kentavious-caldwell-pope": "14 seasons",
+    "wendell-carter-jr": "9 seasons",
+    "anthony-black": "4 seasons",
+    "jonathan-isaac": "10 seasons",
+    "jalen-johnson": "6 seasons",
+    "onyeka-okongwu": "7 seasons",
+    "nickeil-alexander-walker": "8 seasons",
+    "alex-caruso": "10 seasons",
+    "isaiah-hartenstein": "9 seasons",
+    "luguentz-dort": "8 seasons",
+    "aaron-wiggins": "6 seasons",
+    "cason-wallace": "4 seasons",
+    "jaylen-wells": "3 seasons",
+    "santi-aldama": "6 seasons",
+    "ty-jerome": "8 seasons",
+    "ivica-zubac": "11 seasons",
+    "james-harden": "18 seasons",
+    "bogdan-bogdanovic": "10 seasons",
+    "brook-lopez": "19 seasons",
+    "donte-divincenzo": "9 seasons",
+    "naz-reid": "8 seasons",
+    "mike-conley": "20 seasons",
+    "jaden-mcdaniels": "7 seasons",
+    "rob-dillingham": "3 seasons",
+    "nikola-jovic": "5 seasons",
+    "terry-rozier": "12 seasons",
+    "kelel-ware": "3 seasons",
+    "jaime-jaquez-jr": "4 seasons",
+    "collin-sexton": "9 seasons",
+    "miles-bridges": "9 seasons",
+    "grant-williams": "8 seasons",
+    "daniel-gafford": "8 seasons",
+    "pj-washington": "8 seasons",
+    "max-christie": "5 seasons",
+    "walker-kessler": "5 seasons",
+    "keyonte-george": "4 seasons",
+    "kyle-filipowski": "3 seasons",
+    "isaiah-collier": "3 seasons",
+    "ausar-thompson": "4 seasons",
+    "ron-holland": "3 seasons",
+    "jose-alvarado": "6 seasons",
+    "trey-murphy-iii": "6 seasons",
+    "yves-missi": "3 seasons",
+    "andrew-nembhard": "5 seasons",
+    "bennedict-mathurin": "5 seasons",
+    "aaron-nesmith": "7 seasons",
+    "toumani-camara": "4 seasons",
+    "donovan-clingan": "3 seasons",
+    "scoot-henderson": "4 seasons"
   }
 }
