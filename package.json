@@ -1,0 +1,15 @@
+{
+  "name": "courtcraft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CourtCraft — NBA player stats & training explorer, with a season-aware backend API.",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js",
+    "generate-season": "node backend/scripts/generate-season.js",
+    "build-roster": "node backend/scripts/build-roster.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

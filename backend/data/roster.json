@@ -1,0 +1,2698 @@
+[
+  {
+    "id": "lebron",
+    "name": "LeBron James",
+    "first": "LeBron",
+    "team": "Los Angeles Lakers",
+    "position": "Forward",
+    "number": "23",
+    "height": "6'9\"",
+    "weight": "250 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "4×",
+        "l": "MVP"
+      },
+      {
+        "c": "4×",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "21×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-time scoring leader"
+      }
+    ],
+    "philosophy": "LeBron's edge is a freakish blend of size, speed and durability, built on a legendary year-round conditioning program. The focus: total-body power, elite recovery and a game that scores and creates from every spot on the floor.",
+    "trainTemplate": "WING",
+    "exp": "22 seasons"
+  },
+  {
+    "id": "curry",
+    "name": "Stephen Curry",
+    "first": "Stephen",
+    "team": "Golden State Warriors",
+    "position": "Guard",
+    "number": "30",
+    "height": "6'2\"",
+    "weight": "185 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "2×",
+        "l": "MVP"
+      },
+      {
+        "c": "1",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "11×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-time 3PT leader"
+      }
+    ],
+    "philosophy": "Curry redefined range with relentless shooting volume, blistering handle and neuromuscular training that sharpens balance and reaction. The blueprint is footwork, conditioning and thousands of makes on the move.",
+    "trainTemplate": "GUARD",
+    "exp": "16 seasons"
+  },
+  {
+    "id": "giannis",
+    "name": "Giannis Antetokounmpo",
+    "first": "Giannis",
+    "team": "Milwaukee Bucks",
+    "position": "Forward",
+    "number": "34",
+    "height": "6'11\"",
+    "weight": "243 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "2×",
+        "l": "MVP"
+      },
+      {
+        "c": "1",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "1",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "9×",
+        "l": "All-Star"
+      }
+    ],
+    "philosophy": "Giannis pairs a 7-foot frame with guard mobility, powered by explosive lower-body work and a huge focus on flexibility and length. Downhill attacks, transition finishing and two-way motor define his training.",
+    "trainTemplate": "WING",
+    "exp": "13 seasons"
+  },
+  {
+    "id": "jokic",
+    "name": "Nikola Jokić",
+    "first": "Nikola",
+    "team": "Denver Nuggets",
+    "position": "Center",
+    "number": "15",
+    "height": "6'11\"",
+    "weight": "284 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "3×",
+        "l": "MVP"
+      },
+      {
+        "c": "1",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "7×",
+        "l": "All-Star"
+      },
+      {
+        "c": "5×",
+        "l": "All-NBA First"
+      }
+    ],
+    "philosophy": "Jokić's genius is footwork, touch and elite court vision over raw athleticism. The work centers on skill volume — passing reads, soft finishes and range — plus mobility to stay springy at his size.",
+    "trainTemplate": "BIG",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "luka",
+    "name": "Luka Dončić",
+    "first": "Luka",
+    "team": "Los Angeles Lakers",
+    "position": "Guard",
+    "number": "77",
+    "height": "6'7\"",
+    "weight": "230 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "5×",
+        "l": "All-Star"
+      },
+      {
+        "c": "5×",
+        "l": "All-NBA First"
+      },
+      {
+        "c": "1",
+        "l": "Scoring champion"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      }
+    ],
+    "philosophy": "Luka overwhelms with pace changes, size at guard and a bottomless bag of step-backs. His prep leans on conditioning, deceleration control and shot creation off the dribble from all three levels.",
+    "trainTemplate": "GUARD",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "durant",
+    "name": "Kevin Durant",
+    "first": "Kevin",
+    "team": "Phoenix Suns",
+    "position": "Forward",
+    "number": "35",
+    "height": "6'11\"",
+    "weight": "240 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "MVP"
+      },
+      {
+        "c": "2×",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "15×",
+        "l": "All-Star"
+      },
+      {
+        "c": "4×",
+        "l": "Scoring champ"
+      }
+    ],
+    "philosophy": "Durant is the purest scorer in the game — a 7-footer with a guard's stroke. Training is all about shooting mechanics, mid-range mastery and mobility to release cleanly over any contest.",
+    "trainTemplate": "WING",
+    "exp": "18 seasons"
+  },
+  {
+    "id": "tatum",
+    "name": "Jayson Tatum",
+    "first": "Jayson",
+    "team": "Boston Celtics",
+    "position": "Forward",
+    "number": "0",
+    "height": "6'8\"",
+    "weight": "210 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "6×",
+        "l": "All-Star"
+      },
+      {
+        "c": "4×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "All-Star Game MVP"
+      }
+    ],
+    "philosophy": "Tatum's game grew from spot-up shooter to complete three-level scorer through obsessive skill work and added strength. The plan blends shot creation, footwork and two-way conditioning.",
+    "trainTemplate": "WING",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "wemby",
+    "name": "Victor Wembanyama",
+    "first": "Victor",
+    "team": "San Antonio Spurs",
+    "position": "Center",
+    "number": "1",
+    "height": "7'4\"",
+    "weight": "235 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Defensive team"
+      }
+    ],
+    "philosophy": "Wembanyama is a generational unicorn — 7'4\" with guard skills and rim-protecting length. His development focuses on mobility, strength to hold up inside, and perimeter skill work rare for his height.",
+    "trainTemplate": "BIG",
+    "exp": "3 seasons"
+  },
+  {
+    "id": "embiid",
+    "name": "Joel Embiid",
+    "first": "Joel",
+    "team": "Philadelphia 76ers",
+    "position": "Center",
+    "number": "21",
+    "height": "7'0\"",
+    "weight": "280 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "MVP"
+      },
+      {
+        "c": "7×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "Scoring champion"
+      },
+      {
+        "c": "5×",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Embiid is a dominant two-way big with a guard's face-up game. The work: post footwork, mid-range and three-point touch, plus heavy strength and mobility to protect the paint.",
+    "trainTemplate": "BIG",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "sga",
+    "name": "Shai Gilgeous-Alexander",
+    "first": "Shai",
+    "team": "Oklahoma City Thunder",
+    "position": "Guard",
+    "number": "2",
+    "height": "6'6\"",
+    "weight": "195 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "MVP"
+      },
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Scoring champion"
+      }
+    ],
+    "philosophy": "Shai scores with rhythm, pace and elite touch inside the arc. His training emphasizes deceleration, mid-range mastery, ball control and the body control to draw contact and finish.",
+    "trainTemplate": "GUARD",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "morant",
+    "name": "Ja Morant",
+    "first": "Ja",
+    "team": "Memphis Grizzlies",
+    "position": "Guard",
+    "number": "12",
+    "height": "6'2\"",
+    "weight": "174 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Ja is pure explosion — one of the most vertical guards ever. Training is built on plyometric power, first-step speed, body control in the air and ball-handling to attack downhill.",
+    "trainTemplate": "GUARD",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "booker",
+    "name": "Devin Booker",
+    "first": "Devin",
+    "team": "Phoenix Suns",
+    "position": "Guard",
+    "number": "1",
+    "height": "6'5\"",
+    "weight": "206 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "70-point game"
+      }
+    ],
+    "philosophy": "Booker is a silky pure scorer with footwork built on mid-range fundamentals. The plan focuses on shot creation off screens, pull-up shooting and conditioning to carry a heavy scoring load.",
+    "trainTemplate": "GUARD",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "ant",
+    "name": "Anthony Edwards",
+    "first": "Anthony",
+    "team": "Minnesota Timberwolves",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'4\"",
+    "weight": "225 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Olympic gold"
+      }
+    ],
+    "philosophy": "Edwards is a powerful, explosive two-way guard who plays above the rim. Training centers on lower-body power, defensive slides, and an improving pull-up and three-point stroke.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "ad",
+    "name": "Anthony Davis",
+    "first": "Anthony",
+    "team": "Dallas Mavericks",
+    "position": "Forward",
+    "number": "3",
+    "height": "6'10\"",
+    "weight": "253 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "10×",
+        "l": "All-Star"
+      },
+      {
+        "c": "5×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "4×",
+        "l": "All-Defensive"
+      }
+    ],
+    "philosophy": "Davis is a versatile two-way big who guards all five and scores inside and out. The work blends mobility, rim protection, face-up skill and strength management to stay durable.",
+    "trainTemplate": "BIG",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "haliburton",
+    "name": "Tyrese Haliburton",
+    "first": "Tyrese",
+    "team": "Indiana Pacers",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'5\"",
+    "weight": "185 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Assists leader"
+      }
+    ],
+    "philosophy": "Haliburton is a pace-and-space maestro whose passing runs an offense. Training emphasizes conditioning, quick-decision reads, transition speed and a clean, efficient jumper off the catch and dribble.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "brunson",
+    "name": "Jalen Brunson",
+    "first": "Jalen",
+    "team": "New York Knicks",
+    "position": "Guard",
+    "number": "11",
+    "height": "6'2\"",
+    "weight": "190 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Clutch Player"
+      }
+    ],
+    "philosophy": "Brunson is a crafty low-to-the-ground scorer who wins with footwork and pace, not leaping. His blueprint is pivots, angles, change-of-speed handle and a reliable mid-range and floater.",
+    "trainTemplate": "GUARD",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "dame",
+    "name": "Damian Lillard",
+    "first": "Damian",
+    "team": "Portland Trail Blazers",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'2\"",
+    "weight": "195 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "9×",
+        "l": "All-Star"
+      },
+      {
+        "c": "7×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "1",
+        "l": "All-Star Game MVP"
+      }
+    ],
+    "philosophy": "Lillard is a deep-range assassin with elite clutch nerve. His work is logo-range shooting volume, conditioning to shoot off the dribble late, and a tight handle to create space.",
+    "trainTemplate": "GUARD",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "kawhi",
+    "name": "Kawhi Leonard",
+    "first": "Kawhi",
+    "team": "LA Clippers",
+    "position": "Forward",
+    "number": "2",
+    "height": "6'7\"",
+    "weight": "225 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "2×",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "2×",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "6×",
+        "l": "All-Star"
+      }
+    ],
+    "philosophy": "Kawhi is a two-way machine with huge hands and relentless mid-range efficiency. Training centers on strength, footwork, defensive positioning and a compact, repeatable jumper.",
+    "trainTemplate": "WING",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "jimmy",
+    "name": "Jimmy Butler",
+    "first": "Jimmy",
+    "team": "Golden State Warriors",
+    "position": "Forward",
+    "number": "10",
+    "height": "6'7\"",
+    "weight": "230 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "6×",
+        "l": "All-Star"
+      },
+      {
+        "c": "5×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "5×",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Butler is a relentless competitor who thrives on conditioning, defense and getting to the line. His plan is high-volume strength work, footwork to the basket and a dependable mid-range.",
+    "trainTemplate": "WING",
+    "exp": "15 seasons"
+  },
+  {
+    "id": "kyrie",
+    "name": "Kyrie Irving",
+    "first": "Kyrie",
+    "team": "Dallas Mavericks",
+    "position": "Guard",
+    "number": "11",
+    "height": "6'2\"",
+    "weight": "195 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "9×",
+        "l": "All-Star"
+      },
+      {
+        "c": "3×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "All-Star Game MVP"
+      }
+    ],
+    "philosophy": "Irving is arguably the best ball-handler and finisher ever, with a bottomless bag of layup packages. His work is elite handle reps, footwork and finishing at every angle.",
+    "trainTemplate": "GUARD",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "mitchell",
+    "name": "Donovan Mitchell",
+    "first": "Donovan",
+    "team": "Cleveland Cavaliers",
+    "position": "Guard",
+    "number": "45",
+    "height": "6'1\"",
+    "weight": "215 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "6×",
+        "l": "All-Star"
+      },
+      {
+        "c": "3×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rising Star MVP"
+      }
+    ],
+    "philosophy": "Mitchell is an explosive, compact scoring guard who plays above the rim. Training blends plyometric power, pull-up shooting and downhill attacks to score in bunches.",
+    "trainTemplate": "GUARD",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "fox",
+    "name": "De'Aaron Fox",
+    "first": "De'Aaron",
+    "team": "San Antonio Spurs",
+    "position": "Guard",
+    "number": "4",
+    "height": "6'3\"",
+    "weight": "185 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Clutch Player"
+      }
+    ],
+    "philosophy": "Fox may be the fastest player in the league end to end. His blueprint is sprint speed, first-step quickness, transition finishing and a tightening pull-up jumper.",
+    "trainTemplate": "GUARD",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "trae",
+    "name": "Trae Young",
+    "first": "Trae",
+    "team": "Atlanta Hawks",
+    "position": "Guard",
+    "number": "11",
+    "height": "6'1\"",
+    "weight": "164 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Assists leader"
+      }
+    ],
+    "philosophy": "Young is a floor general with deep range and elite passing vision. Training focuses on floaters, deep pull-ups, change of pace and reads to run pick-and-roll all night.",
+    "trainTemplate": "GUARD",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "zion",
+    "name": "Zion Williamson",
+    "first": "Zion",
+    "team": "New Orleans Pelicans",
+    "position": "Forward",
+    "number": "1",
+    "height": "6'6\"",
+    "weight": "284 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Zion is a freight-train finisher with rare power and burst. His work centers on explosive strength, mobility, weight management and finishing through contact at the rim.",
+    "trainTemplate": "WING",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "paolo",
+    "name": "Paolo Banchero",
+    "first": "Paolo",
+    "team": "Orlando Magic",
+    "position": "Forward",
+    "number": "5",
+    "height": "6'10\"",
+    "weight": "250 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Banchero is a big forward who bullies mismatches and creates his own shot. Training blends strength, face-up footwork, ball-handling for his size and three-level scoring.",
+    "trainTemplate": "WING",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "bam",
+    "name": "Bam Adebayo",
+    "first": "Bam",
+    "team": "Miami Heat",
+    "position": "Center",
+    "number": "13",
+    "height": "6'9\"",
+    "weight": "255 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "5×",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Adebayo is a switchable defensive anchor and hub passer. His plan is lateral quickness, hand-off and short-roll reads, plus an expanding mid-range and free-throw touch.",
+    "trainTemplate": "BIG",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "kat",
+    "name": "Karl-Anthony Towns",
+    "first": "Karl-Anthony",
+    "team": "New York Knicks",
+    "position": "Center",
+    "number": "32",
+    "height": "6'11\"",
+    "weight": "248 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      }
+    ],
+    "philosophy": "Towns is one of the best shooting bigs ever — a true stretch center. His work is high-volume three-point shooting, post footwork and mobility to defend in space.",
+    "trainTemplate": "BIG",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "pg13",
+    "name": "Paul George",
+    "first": "Paul",
+    "team": "Philadelphia 76ers",
+    "position": "Forward",
+    "number": "8",
+    "height": "6'8\"",
+    "weight": "220 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "9×",
+        "l": "All-Star"
+      },
+      {
+        "c": "6×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "4×",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "George is a prototypical two-way wing with size, shooting and on-ball defense. Training blends footwork, catch-and-shoot volume and lateral defensive work.",
+    "trainTemplate": "WING",
+    "exp": "15 seasons"
+  },
+  {
+    "id": "jbrown",
+    "name": "Jaylen Brown",
+    "first": "Jaylen",
+    "team": "Boston Celtics",
+    "position": "Forward",
+    "number": "7",
+    "height": "6'6\"",
+    "weight": "223 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Finals MVP"
+      },
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Brown is an explosive two-way wing who attacks downhill with power. His plan is first-step burst, finishing strength, handle tightening and a steadier jumper.",
+    "trainTemplate": "WING",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "jrue",
+    "name": "Jrue Holiday",
+    "first": "Jrue",
+    "team": "Boston Celtics",
+    "position": "Guard",
+    "number": "4",
+    "height": "6'4\"",
+    "weight": "205 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "6×",
+        "l": "All-Defensive"
+      }
+    ],
+    "philosophy": "Holiday is one of the best perimeter defenders alive and a steady two-way guard. Training centers on defensive strength, conditioning and efficient shot selection.",
+    "trainTemplate": "GUARD",
+    "exp": "16 seasons"
+  },
+  {
+    "id": "sabonis",
+    "name": "Domantas Sabonis",
+    "first": "Domantas",
+    "team": "Sacramento Kings",
+    "position": "Center",
+    "number": "10",
+    "height": "6'11\"",
+    "weight": "240 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rebounding leader"
+      }
+    ],
+    "philosophy": "Sabonis is a double-double machine and elite passing hub. His work is footwork, rebounding positioning, hand-off reads and a growing perimeter touch.",
+    "trainTemplate": "BIG",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "kp",
+    "name": "Kristaps Porziņģis",
+    "first": "Kristaps",
+    "team": "Atlanta Hawks",
+    "position": "Center",
+    "number": "8",
+    "height": "7'3\"",
+    "weight": "240 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Porziņģis is a 7'3\" unicorn who shoots threes and protects the rim. Training blends mobility, shooting mechanics at height and strength to hold up inside.",
+    "trainTemplate": "BIG",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "franz",
+    "name": "Franz Wagner",
+    "first": "Franz",
+    "team": "Orlando Magic",
+    "position": "Forward",
+    "number": "22",
+    "height": "6'10\"",
+    "weight": "220 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Wagner is a big, skilled wing who creates and defends. His plan focuses on downhill driving, three-level scoring and improving his outside stroke.",
+    "trainTemplate": "WING",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "cade",
+    "name": "Cade Cunningham",
+    "first": "Cade",
+    "team": "Detroit Pistons",
+    "position": "Guard",
+    "number": "2",
+    "height": "6'6\"",
+    "weight": "220 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Cunningham is a big lead guard with pace, size and vision. Training blends pick-and-roll reads, change of speed, finishing and pull-up shooting.",
+    "trainTemplate": "GUARD",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "sengun",
+    "name": "Alperen Şengün",
+    "first": "Alperen",
+    "team": "Houston Rockets",
+    "position": "Center",
+    "number": "28",
+    "height": "6'11\"",
+    "weight": "255 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved candidate"
+      }
+    ],
+    "philosophy": "Şengün is a crafty modern big with elite touch and passing. His work is footwork, floaters, high-post reads and conditioning to run the offense.",
+    "trainTemplate": "BIG",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "scottie",
+    "name": "Scottie Barnes",
+    "first": "Scottie",
+    "team": "Toronto Raptors",
+    "position": "Forward",
+    "number": "4",
+    "height": "6'8\"",
+    "weight": "237 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      }
+    ],
+    "philosophy": "Barnes is a jumbo point-forward who does a bit of everything. Training focuses on handle, playmaking reads, defensive versatility and a developing jumper.",
+    "trainTemplate": "WING",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "mobley",
+    "name": "Evan Mobley",
+    "first": "Evan",
+    "team": "Cleveland Cavaliers",
+    "position": "Forward",
+    "number": "4",
+    "height": "6'11\"",
+    "weight": "215 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Mobley is a switchable defensive anchor with growing offense. His plan blends rim protection, mobility, face-up skill and shooting extension.",
+    "trainTemplate": "BIG",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "jdub",
+    "name": "Jalen Williams",
+    "first": "Jalen",
+    "team": "Oklahoma City Thunder",
+    "position": "Forward",
+    "number": "8",
+    "height": "6'6\"",
+    "weight": "211 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Williams is a smooth two-way wing who scores and defends multiple spots. Training blends footwork, mid-range, on-ball defense and shooting off movement.",
+    "trainTemplate": "WING",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "chet",
+    "name": "Chet Holmgren",
+    "first": "Chet",
+    "team": "Oklahoma City Thunder",
+    "position": "Center",
+    "number": "7",
+    "height": "7'1\"",
+    "weight": "208 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "Blocks leader"
+      }
+    ],
+    "philosophy": "Holmgren is a unicorn big who shoots, protects the rim and runs the floor. His work is mobility, shooting mechanics and strength to hold up inside.",
+    "trainTemplate": "BIG",
+    "exp": "3 seasons"
+  },
+  {
+    "id": "herro",
+    "name": "Tyler Herro",
+    "first": "Tyler",
+    "team": "Miami Heat",
+    "position": "Guard",
+    "number": "14",
+    "height": "6'5\"",
+    "weight": "195 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Sixth Man of the Year"
+      }
+    ],
+    "philosophy": "Herro is a shot-making guard with deep range and shifty handle. Training centers on pull-up shooting, off-screen movement and conditioning to score in volume.",
+    "trainTemplate": "GUARD",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "lavine",
+    "name": "Zach LaVine",
+    "first": "Zach",
+    "team": "Sacramento Kings",
+    "position": "Guard",
+    "number": "8",
+    "height": "6'5\"",
+    "weight": "200 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "Dunk Contest champ"
+      },
+      {
+        "c": "1",
+        "l": "Olympic gold"
+      }
+    ],
+    "philosophy": "LaVine is an explosive leaper and efficient three-level scorer. His work is plyometric power, catch-and-shoot volume and pull-up creation off the dribble.",
+    "trainTemplate": "GUARD",
+    "exp": "12 seasons"
+  },
+  {
+    "id": "demar",
+    "name": "DeMar DeRozan",
+    "first": "DeMar",
+    "team": "Sacramento Kings",
+    "position": "Forward",
+    "number": "10",
+    "height": "6'6\"",
+    "weight": "220 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "6×",
+        "l": "All-Star"
+      },
+      {
+        "c": "4×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Clutch scorer"
+      }
+    ],
+    "philosophy": "DeRozan is a mid-range maestro who lives in the mid-post. His blueprint is footwork, pivots, the mid-range pull-up and drawing fouls.",
+    "trainTemplate": "WING",
+    "exp": "16 seasons"
+  },
+  {
+    "id": "siakam",
+    "name": "Pascal Siakam",
+    "first": "Pascal",
+    "team": "Indiana Pacers",
+    "position": "Forward",
+    "number": "43",
+    "height": "6'8\"",
+    "weight": "230 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Siakam is a versatile forward with a spin-move signature and open-floor speed. Training blends footwork, transition finishing and three-level scoring.",
+    "trainTemplate": "WING",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "lauri",
+    "name": "Lauri Markkanen",
+    "first": "Lauri",
+    "team": "Utah Jazz",
+    "position": "Forward",
+    "number": "23",
+    "height": "7'0\"",
+    "weight": "240 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Markkanen is a 7-foot sharpshooter who spaces the floor and attacks close-outs. His plan is shooting volume, mobility and finishing off the drive.",
+    "trainTemplate": "BIG",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "murray",
+    "name": "Jamal Murray",
+    "first": "Jamal",
+    "team": "Denver Nuggets",
+    "position": "Guard",
+    "number": "27",
+    "height": "6'4\"",
+    "weight": "215 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Star candidate"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "Murray is a clutch two-way guard with pick-and-roll mastery alongside Jokić. His work is pull-up shooting, floaters, conditioning and shot creation.",
+    "trainTemplate": "GUARD",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "garland",
+    "name": "Darius Garland",
+    "first": "Darius",
+    "team": "Cleveland Cavaliers",
+    "position": "Guard",
+    "number": "10",
+    "height": "6'1\"",
+    "weight": "192 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved candidate"
+      }
+    ],
+    "philosophy": "Garland is a shifty lead guard with a tight handle and deep range. Training blends ball-handling, floaters, pick-and-roll reads and quick-release shooting.",
+    "trainTemplate": "GUARD",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "ingram",
+    "name": "Brandon Ingram",
+    "first": "Brandon",
+    "team": "Toronto Raptors",
+    "position": "Forward",
+    "number": "3",
+    "height": "6'8\"",
+    "weight": "190 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Ingram is a smooth long-limbed wing scorer with a soft mid-range. His work is footwork, pull-up shooting and using length to score over defenders.",
+    "trainTemplate": "WING",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "klay",
+    "name": "Klay Thompson",
+    "first": "Klay",
+    "team": "Dallas Mavericks",
+    "position": "Guard",
+    "number": "31",
+    "height": "6'5\"",
+    "weight": "215 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "5×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Thompson is one of the greatest catch-and-shoot snipers ever and a stout defender. His plan is off-ball movement, footwork into the catch and endless shooting reps.",
+    "trainTemplate": "GUARD",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "russ",
+    "name": "Russell Westbrook",
+    "first": "Russell",
+    "team": "Denver Nuggets",
+    "position": "Guard",
+    "number": "4",
+    "height": "6'3\"",
+    "weight": "200 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "MVP"
+      },
+      {
+        "c": "9×",
+        "l": "All-Star"
+      },
+      {
+        "c": "9×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "2×",
+        "l": "Scoring champ"
+      }
+    ],
+    "philosophy": "Westbrook is one of the most explosive and relentless guards ever — the triple-double king. His work is elite conditioning, plyometric power and downhill attacking.",
+    "trainTemplate": "GUARD",
+    "exp": "18 seasons"
+  },
+  {
+    "id": "jjj",
+    "name": "Jaren Jackson Jr.",
+    "first": "Jaren",
+    "team": "Memphis Grizzlies",
+    "position": "Center",
+    "number": "13",
+    "height": "6'10\"",
+    "weight": "242 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Blocks leader"
+      }
+    ],
+    "philosophy": "Jackson is a rim-protecting, floor-spacing modern big. Training blends vertical contest timing, mobility, three-point shooting and strength to defend inside.",
+    "trainTemplate": "BIG",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "bane",
+    "name": "Desmond Bane",
+    "first": "Desmond",
+    "team": "Orlando Magic",
+    "position": "Guard",
+    "number": "22",
+    "height": "6'5\"",
+    "weight": "215 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Most Improved candidate"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "Bane is a strong, efficient shooting guard who scores at all three levels. His work is catch-and-shoot volume, pull-up creation and strength to finish through contact.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "mikal",
+    "name": "Mikal Bridges",
+    "first": "Mikal",
+    "team": "New York Knicks",
+    "position": "Forward",
+    "number": "25",
+    "height": "6'6\"",
+    "weight": "209 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Iron-man streak"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive candidate"
+      }
+    ],
+    "philosophy": "Bridges is a durable 3-and-D wing with elite conditioning. Training centers on catch-and-shoot shooting, on-ball defense and endurance to log heavy minutes.",
+    "trainTemplate": "WING",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "og",
+    "name": "OG Anunoby",
+    "first": "OG",
+    "team": "New York Knicks",
+    "position": "Forward",
+    "number": "8",
+    "height": "6'7\"",
+    "weight": "232 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive candidate"
+      }
+    ],
+    "philosophy": "Anunoby is a powerful, switchable defender who spaces the floor. His plan is strength, lateral quickness, catch-and-shoot reps and finishing on drives.",
+    "trainTemplate": "WING",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "randle",
+    "name": "Julius Randle",
+    "first": "Julius",
+    "team": "Minnesota Timberwolves",
+    "position": "Forward",
+    "number": "30",
+    "height": "6'8\"",
+    "weight": "250 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "2×",
+        "l": "All-NBA"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Randle is a bruising lefty forward who bullies mismatches and passes well. Training blends strength, footwork, face-up handle and a reliable jumper.",
+    "trainTemplate": "WING",
+    "exp": "12 seasons"
+  },
+  {
+    "id": "gobert",
+    "name": "Rudy Gobert",
+    "first": "Rudy",
+    "team": "Minnesota Timberwolves",
+    "position": "Center",
+    "number": "27",
+    "height": "7'1\"",
+    "weight": "258 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "6×",
+        "l": "All-NBA"
+      }
+    ],
+    "philosophy": "Gobert is the premier rim protector of his era. His work is verticality, timing, conditioning to cover ground and screening plus lob-finishing efficiency.",
+    "trainTemplate": "BIG",
+    "exp": "13 seasons"
+  },
+  {
+    "id": "beal",
+    "name": "Bradley Beal",
+    "first": "Bradley",
+    "team": "LA Clippers",
+    "position": "Guard",
+    "number": "3",
+    "height": "6'4\"",
+    "weight": "207 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "3×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Scoring runner-up"
+      }
+    ],
+    "philosophy": "Beal is a smooth three-level scorer with a polished mid-range. Training centers on shot creation, pull-up shooting, footwork and conditioning to carry scoring loads.",
+    "trainTemplate": "GUARD",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "fvv",
+    "name": "Fred VanVleet",
+    "first": "Fred",
+    "team": "Houston Rockets",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'0\"",
+    "weight": "197 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      }
+    ],
+    "philosophy": "VanVleet is an undrafted grinder and elite competitor at both ends. His work is conditioning, defensive toughness, deep shooting and steady playmaking.",
+    "trainTemplate": "GUARD",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "amen",
+    "name": "Amen Thompson",
+    "first": "Amen",
+    "team": "Houston Rockets",
+    "position": "Forward",
+    "number": "1",
+    "height": "6'7\"",
+    "weight": "215 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "Rising Star"
+      }
+    ],
+    "philosophy": "Thompson is a freak athlete and menace defender who plays above the rim. His plan is explosive power, defensive versatility, handle and a developing jumper.",
+    "trainTemplate": "WING",
+    "exp": "3 seasons"
+  },
+  {
+    "id": "jgreen",
+    "name": "Jalen Green",
+    "first": "Jalen",
+    "team": "Phoenix Suns",
+    "position": "Guard",
+    "number": "4",
+    "height": "6'4\"",
+    "weight": "186 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rising Star"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "Green is an explosive, high-flying scoring guard. Training blends plyometric power, first-step burst, pull-up shooting and finishing above the rim.",
+    "trainTemplate": "GUARD",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "dejounte",
+    "name": "Dejounte Murray",
+    "first": "Dejounte",
+    "team": "New Orleans Pelicans",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'4\"",
+    "weight": "180 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "Steals leader"
+      }
+    ],
+    "philosophy": "Murray is a long two-way guard with strong rebounding and passing. His work is defensive length, mid-range shooting and pick-and-roll playmaking.",
+    "trainTemplate": "GUARD",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "cj",
+    "name": "CJ McCollum",
+    "first": "CJ",
+    "team": "Washington Wizards",
+    "position": "Guard",
+    "number": "3",
+    "height": "6'3\"",
+    "weight": "190 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Most Improved"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "McCollum is a polished mid-range and pull-up shooter with tight footwork. Training centers on dribble-jumper craft, footwork and conditioning to score in volume.",
+    "trainTemplate": "GUARD",
+    "exp": "13 seasons"
+  },
+  {
+    "id": "coby",
+    "name": "Coby White",
+    "first": "Coby",
+    "team": "Chicago Bulls",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'5\"",
+    "weight": "195 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Most Improved candidate"
+      }
+    ],
+    "philosophy": "White is a fast, streaky scoring guard with deep range. His plan is transition speed, pull-up shooting, conditioning and tightening playmaking.",
+    "trainTemplate": "GUARD",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "vooch",
+    "name": "Nikola Vučević",
+    "first": "Nikola",
+    "team": "Chicago Bulls",
+    "position": "Center",
+    "number": "9",
+    "height": "6'10\"",
+    "weight": "260 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Rebounding threat"
+      }
+    ],
+    "philosophy": "Vučević is a skilled stretch-five with a soft touch and high-post passing. His work is footwork, mid-range and three-point shooting, plus rebounding positioning.",
+    "trainTemplate": "BIG",
+    "exp": "15 seasons"
+  },
+  {
+    "id": "giddey",
+    "name": "Josh Giddey",
+    "first": "Josh",
+    "team": "Chicago Bulls",
+    "position": "Guard",
+    "number": "3",
+    "height": "6'8\"",
+    "weight": "216 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Triple-double threat"
+      },
+      {
+        "c": "1",
+        "l": "Rising Star"
+      }
+    ],
+    "philosophy": "Giddey is a jumbo playmaking guard who rebounds and passes at a high level. Training blends handle, transition reads, finishing and a steadier jumper.",
+    "trainTemplate": "GUARD",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "melo",
+    "name": "LaMelo Ball",
+    "first": "LaMelo",
+    "team": "Charlotte Hornets",
+    "position": "Guard",
+    "number": "1",
+    "height": "6'7\"",
+    "weight": "180 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      }
+    ],
+    "philosophy": "Ball is a flashy, tall lead guard with deep range and elite vision. His work is handle creativity, deep pull-ups, transition passing and conditioning.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "bmiller",
+    "name": "Brandon Miller",
+    "first": "Brandon",
+    "team": "Charlotte Hornets",
+    "position": "Forward",
+    "number": "24",
+    "height": "6'7\"",
+    "weight": "200 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rising Star"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Miller is a smooth big wing with three-level scoring upside. Training blends shot creation, catch-and-shoot volume, footwork and finishing on drives.",
+    "trainTemplate": "WING",
+    "exp": "3 seasons"
+  },
+  {
+    "id": "deni",
+    "name": "Deni Avdija",
+    "first": "Deni",
+    "team": "Portland Trail Blazers",
+    "position": "Forward",
+    "number": "8",
+    "height": "6'9\"",
+    "weight": "210 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Most Improved candidate"
+      }
+    ],
+    "philosophy": "Avdija is a big, physical point-forward who defends and pushes the pace. His work is handle, transition finishing, playmaking reads and shooting.",
+    "trainTemplate": "WING",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "shaedon",
+    "name": "Shaedon Sharpe",
+    "first": "Shaedon",
+    "team": "Portland Trail Blazers",
+    "position": "Guard",
+    "number": "17",
+    "height": "6'5\"",
+    "weight": "200 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rising Star"
+      },
+      {
+        "c": "1",
+        "l": "Highlight leaper"
+      }
+    ],
+    "philosophy": "Sharpe is a explosive leaper with scoring flashes. Training centers on plyometric power, pull-up shooting, handle and finishing above the rim.",
+    "trainTemplate": "GUARD",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "dwhite",
+    "name": "Derrick White",
+    "first": "Derrick",
+    "team": "Boston Celtics",
+    "position": "Guard",
+    "number": "9",
+    "height": "6'4\"",
+    "weight": "190 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "Olympic gold"
+      }
+    ],
+    "philosophy": "White is a two-way connector who shoots, defends and blocks shots as a guard. His work is catch-and-shoot volume, defensive timing and conditioning.",
+    "trainTemplate": "GUARD",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "iq",
+    "name": "Immanuel Quickley",
+    "first": "Immanuel",
+    "team": "Toronto Raptors",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'3\"",
+    "weight": "190 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Sixth Man runner-up"
+      }
+    ],
+    "philosophy": "Quickley is a quick, shifty combo guard with deep range. Training blends pull-up shooting, floaters, conditioning and pick-and-roll playmaking.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "rj",
+    "name": "RJ Barrett",
+    "first": "RJ",
+    "team": "Toronto Raptors",
+    "position": "Forward",
+    "number": "9",
+    "height": "6'6\"",
+    "weight": "214 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "Barrett is a strong, downhill lefty wing who attacks the rim. His plan is finishing strength, footwork, handle and a steadier outside shot.",
+    "trainTemplate": "WING",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "edey",
+    "name": "Zach Edey",
+    "first": "Zach",
+    "team": "Memphis Grizzlies",
+    "position": "Center",
+    "number": "14",
+    "height": "7'4\"",
+    "weight": "300 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "College POY"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Edey is a massive, old-school interior force. His work is footwork, screening, rebounding positioning, conditioning and finishing efficiency at the rim.",
+    "trainTemplate": "BIG",
+    "exp": "2 seasons"
+  },
+  {
+    "id": "jabari",
+    "name": "Jabari Smith Jr.",
+    "first": "Jabari",
+    "team": "Houston Rockets",
+    "position": "Forward",
+    "number": "1",
+    "height": "6'11\"",
+    "weight": "220 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "Stretch-four riser"
+      }
+    ],
+    "philosophy": "Smith is a long, floor-spacing forward who defends multiple positions. Training blends shooting mechanics, mobility, strength and defensive versatility.",
+    "trainTemplate": "WING",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "dray",
+    "name": "Draymond Green",
+    "first": "Draymond",
+    "team": "Golden State Warriors",
+    "position": "Forward",
+    "number": "23",
+    "height": "6'6\"",
+    "weight": "230 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "4×",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Defensive POY"
+      },
+      {
+        "c": "4×",
+        "l": "All-Star"
+      },
+      {
+        "c": "8×",
+        "l": "All-Defensive"
+      }
+    ],
+    "philosophy": "Green is the ultimate defensive quarterback and connective passer. His work is conditioning, defensive IQ and communication, switchability and playmaking from the elbow.",
+    "trainTemplate": "WING",
+    "exp": "14 seasons"
+  },
+  {
+    "id": "mpj",
+    "name": "Michael Porter Jr.",
+    "first": "Michael",
+    "team": "Brooklyn Nets",
+    "position": "Forward",
+    "number": "1",
+    "height": "6'10\"",
+    "weight": "218 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Elite shooter"
+      }
+    ],
+    "philosophy": "Porter is a tall, elite catch-and-shoot forward and strong rebounder. His work is shooting volume, footwork off screens and finishing on drives.",
+    "trainTemplate": "WING",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "camt",
+    "name": "Cam Thomas",
+    "first": "Cam",
+    "team": "Brooklyn Nets",
+    "position": "Guard",
+    "number": "24",
+    "height": "6'3\"",
+    "weight": "210 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "40-point games"
+      },
+      {
+        "c": "1",
+        "l": "Bucket-getter"
+      }
+    ],
+    "philosophy": "Thomas is a fearless shot-maker who scores in bunches. Training centers on tough-shot creation, pull-up shooting, footwork and conditioning to carry a load.",
+    "trainTemplate": "GUARD",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "clax",
+    "name": "Nic Claxton",
+    "first": "Nic",
+    "team": "Brooklyn Nets",
+    "position": "Center",
+    "number": "33",
+    "height": "6'11\"",
+    "weight": "215 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Defensive candidate"
+      },
+      {
+        "c": "1",
+        "l": "Blocks threat"
+      }
+    ],
+    "philosophy": "Claxton is a mobile, switchable rim-runner and shot-blocker. His plan is verticality, lateral quickness, lob finishing and conditioning to guard in space.",
+    "trainTemplate": "BIG",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "aarong",
+    "name": "Aaron Gordon",
+    "first": "Aaron",
+    "team": "Denver Nuggets",
+    "position": "Forward",
+    "number": "50",
+    "height": "6'8\"",
+    "weight": "235 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Dunk Contest legend"
+      }
+    ],
+    "philosophy": "Gordon is a powerful two-way forward and elite lob finisher. Training blends explosive power, defensive versatility, cutting timing and a steadier jumper.",
+    "trainTemplate": "WING",
+    "exp": "12 seasons"
+  },
+  {
+    "id": "braun",
+    "name": "Christian Braun",
+    "first": "Christian",
+    "team": "Denver Nuggets",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'6\"",
+    "weight": "220 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Energy riser"
+      }
+    ],
+    "philosophy": "Braun is a high-motor two-way wing who cuts, defends and finishes. His work is conditioning, cutting reads, catch-and-shoot volume and transition finishing.",
+    "trainTemplate": "WING",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "wiggins",
+    "name": "Andrew Wiggins",
+    "first": "Andrew",
+    "team": "Miami Heat",
+    "position": "Forward",
+    "number": "22",
+    "height": "6'7\"",
+    "weight": "197 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      }
+    ],
+    "philosophy": "Wiggins is a smooth two-way wing with length and athleticism. Training centers on shot creation, catch-and-shoot shooting, on-ball defense and finishing.",
+    "trainTemplate": "WING",
+    "exp": "12 seasons"
+  },
+  {
+    "id": "npowell",
+    "name": "Norman Powell",
+    "first": "Norman",
+    "team": "Miami Heat",
+    "position": "Guard",
+    "number": "24",
+    "height": "6'3\"",
+    "weight": "215 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Microwave scorer"
+      }
+    ],
+    "philosophy": "Powell is a strong, efficient scoring guard who catches fire quickly. His work is catch-and-shoot volume, downhill finishing strength and conditioning.",
+    "trainTemplate": "GUARD",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "reaves",
+    "name": "Austin Reaves",
+    "first": "Austin",
+    "team": "Los Angeles Lakers",
+    "position": "Guard",
+    "number": "15",
+    "height": "6'5\"",
+    "weight": "197 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Undrafted riser"
+      },
+      {
+        "c": "1",
+        "l": "Playoff riser"
+      }
+    ],
+    "philosophy": "Reaves is a crafty combo guard who scores, passes and draws fouls. Training blends handle, floaters, pull-up shooting and pick-and-roll reads.",
+    "trainTemplate": "GUARD",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "rui",
+    "name": "Rui Hachimura",
+    "first": "Rui",
+    "team": "Los Angeles Lakers",
+    "position": "Forward",
+    "number": "28",
+    "height": "6'8\"",
+    "weight": "230 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "3-and-D riser"
+      }
+    ],
+    "philosophy": "Hachimura is a strong, efficient forward with a reliable corner three. His plan is strength, catch-and-shoot volume, footwork and finishing on drives.",
+    "trainTemplate": "WING",
+    "exp": "7 seasons"
+  },
+  {
+    "id": "ayton",
+    "name": "Deandre Ayton",
+    "first": "Deandre",
+    "team": "Los Angeles Lakers",
+    "position": "Center",
+    "number": "5",
+    "height": "6'11\"",
+    "weight": "250 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "No. 1 overall pick"
+      },
+      {
+        "c": "1",
+        "l": "Rookie team"
+      }
+    ],
+    "philosophy": "Ayton is a mobile, skilled big with a soft mid-range and strong rebounding. Training blends footwork, pick-and-roll finishing, rebounding and mid-range touch.",
+    "trainTemplate": "BIG",
+    "exp": "8 seasons"
+  },
+  {
+    "id": "kuzma",
+    "name": "Kyle Kuzma",
+    "first": "Kyle",
+    "team": "Milwaukee Bucks",
+    "position": "Forward",
+    "number": "18",
+    "height": "6'9\"",
+    "weight": "221 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Scoring riser"
+      }
+    ],
+    "philosophy": "Kuzma is a versatile scoring forward who works all three levels. His work is shot creation, footwork, catch-and-shoot volume and finishing.",
+    "trainTemplate": "WING",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "portis",
+    "name": "Bobby Portis",
+    "first": "Bobby",
+    "team": "Milwaukee Bucks",
+    "position": "Forward",
+    "number": "9",
+    "height": "6'10\"",
+    "weight": "250 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Sixth Man candidate"
+      }
+    ],
+    "philosophy": "Portis is a high-energy stretch big who rebounds and shoots. Training blends rebounding positioning, catch-and-shoot volume, strength and conditioning.",
+    "trainTemplate": "BIG",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "turner",
+    "name": "Myles Turner",
+    "first": "Myles",
+    "team": "Milwaukee Bucks",
+    "position": "Center",
+    "number": "33",
+    "height": "6'11\"",
+    "weight": "250 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "2×",
+        "l": "Blocks leader"
+      },
+      {
+        "c": "1",
+        "l": "Stretch-five"
+      }
+    ],
+    "philosophy": "Turner is a stretch-five and elite shot-blocker. His plan is verticality, timing, three-point shooting and mobility to defend the rim and the perimeter.",
+    "trainTemplate": "BIG",
+    "exp": "11 seasons"
+  },
+  {
+    "id": "maxey",
+    "name": "Tyrese Maxey",
+    "first": "Tyrese",
+    "team": "Philadelphia 76ers",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'2\"",
+    "weight": "200 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Star"
+      },
+      {
+        "c": "1",
+        "l": "Most Improved"
+      }
+    ],
+    "philosophy": "Maxey is a lightning-fast guard with deep range and a great motor. Training centers on speed, pull-up and catch-and-shoot volume, conditioning and playmaking.",
+    "trainTemplate": "GUARD",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "duren",
+    "name": "Jalen Duren",
+    "first": "Jalen",
+    "team": "Detroit Pistons",
+    "position": "Center",
+    "number": "0",
+    "height": "6'10\"",
+    "weight": "250 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "Double-double machine"
+      }
+    ],
+    "philosophy": "Duren is a young, powerful lob-finisher and rebounder. His work is verticality, screening, rebounding positioning, conditioning and finishing efficiency.",
+    "trainTemplate": "BIG",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "ivey",
+    "name": "Jaden Ivey",
+    "first": "Jaden",
+    "team": "Detroit Pistons",
+    "position": "Guard",
+    "number": "23",
+    "height": "6'4\"",
+    "weight": "195 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie team"
+      },
+      {
+        "c": "1",
+        "l": "Speed riser"
+      }
+    ],
+    "philosophy": "Ivey is an explosive, downhill guard with elite burst. Training blends first-step speed, transition finishing, handle and pull-up shooting.",
+    "trainTemplate": "GUARD",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "tobias",
+    "name": "Tobias Harris",
+    "first": "Tobias",
+    "team": "Detroit Pistons",
+    "position": "Forward",
+    "number": "12",
+    "height": "6'8\"",
+    "weight": "226 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Iron-man forward"
+      },
+      {
+        "c": "1",
+        "l": "Steady scorer"
+      }
+    ],
+    "philosophy": "Harris is a durable, efficient forward who scores at all three levels. His plan is footwork, mid-range and catch-and-shoot volume, and finishing.",
+    "trainTemplate": "WING",
+    "exp": "15 seasons"
+  },
+  {
+    "id": "keegan",
+    "name": "Keegan Murray",
+    "first": "Keegan",
+    "team": "Sacramento Kings",
+    "position": "Forward",
+    "number": "13",
+    "height": "6'8\"",
+    "weight": "215 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie 3PT record"
+      },
+      {
+        "c": "1",
+        "l": "3-and-D riser"
+      }
+    ],
+    "philosophy": "Murray is a floor-spacing forward who defends and shoots. Training blends catch-and-shoot volume, footwork, defensive versatility and finishing.",
+    "trainTemplate": "WING",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "monk",
+    "name": "Malik Monk",
+    "first": "Malik",
+    "team": "Sacramento Kings",
+    "position": "Guard",
+    "number": "0",
+    "height": "6'3\"",
+    "weight": "200 lb",
+    "accent": "#005C81",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Sixth Man runner-up"
+      },
+      {
+        "c": "1",
+        "l": "Instant offense"
+      }
+    ],
+    "philosophy": "Monk is an explosive microwave scorer off the bench. His work is pull-up and catch-and-shoot volume, plyometric power, handle and conditioning.",
+    "trainTemplate": "GUARD",
+    "exp": "9 seasons"
+  },
+  {
+    "id": "kuminga",
+    "name": "Jonathan Kuminga",
+    "first": "Jonathan",
+    "team": "Golden State Warriors",
+    "position": "Forward",
+    "number": "00",
+    "height": "6'7\"",
+    "weight": "225 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "NBA Champion"
+      },
+      {
+        "c": "1",
+        "l": "Athletic riser"
+      }
+    ],
+    "philosophy": "Kuminga is a powerful, explosive forward who attacks the rim. Training blends explosive power, finishing strength, handle and a developing jumper.",
+    "trainTemplate": "WING",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "buddy",
+    "name": "Buddy Hield",
+    "first": "Buddy",
+    "team": "Golden State Warriors",
+    "position": "Guard",
+    "number": "7",
+    "height": "6'4\"",
+    "weight": "220 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "3PT Contest champ"
+      },
+      {
+        "c": "1",
+        "l": "Elite shooter"
+      }
+    ],
+    "philosophy": "Hield is a relentless off-ball sniper with deep range. His plan is off-screen movement, footwork into the catch, conditioning and endless shooting reps.",
+    "trainTemplate": "GUARD",
+    "exp": "10 seasons"
+  },
+  {
+    "id": "vassell",
+    "name": "Devin Vassell",
+    "first": "Devin",
+    "team": "San Antonio Spurs",
+    "position": "Guard",
+    "number": "24",
+    "height": "6'5\"",
+    "weight": "200 lb",
+    "accent": "#2284AC",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "3-and-D riser"
+      },
+      {
+        "c": "1",
+        "l": "Efficient scorer"
+      }
+    ],
+    "philosophy": "Vassell is a smooth two-way wing with a clean jumper. Training centers on catch-and-shoot and pull-up volume, footwork, and on-ball defense.",
+    "trainTemplate": "WING",
+    "exp": "6 seasons"
+  },
+  {
+    "id": "castle",
+    "name": "Stephon Castle",
+    "first": "Stephon",
+    "team": "San Antonio Spurs",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'6\"",
+    "weight": "215 lb",
+    "accent": "#004A68",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Rookie of the Year"
+      },
+      {
+        "c": "1",
+        "l": "Two-way riser"
+      }
+    ],
+    "philosophy": "Castle is a big, physical two-way guard with defensive upside. His work is handle, downhill finishing, defensive versatility and a developing jumper.",
+    "trainTemplate": "GUARD",
+    "exp": "2 seasons"
+  },
+  {
+    "id": "herbjones",
+    "name": "Herbert Jones",
+    "first": "Herbert",
+    "team": "New Orleans Pelicans",
+    "position": "Forward",
+    "number": "5",
+    "height": "6'7\"",
+    "weight": "206 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      },
+      {
+        "c": "1",
+        "l": "3-and-D anchor"
+      }
+    ],
+    "philosophy": "Jones is a lockdown perimeter defender with a reliable corner three. His work is lateral quickness, defensive length and timing, plus catch-and-shoot volume.",
+    "trainTemplate": "WING",
+    "exp": "5 seasons"
+  },
+  {
+    "id": "dyson",
+    "name": "Dyson Daniels",
+    "first": "Dyson",
+    "team": "Atlanta Hawks",
+    "position": "Guard",
+    "number": "5",
+    "height": "6'8\"",
+    "weight": "200 lb",
+    "accent": "#003040",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "Most Improved"
+      },
+      {
+        "c": "1",
+        "l": "Steals leader"
+      },
+      {
+        "c": "1",
+        "l": "All-Defensive"
+      }
+    ],
+    "philosophy": "Daniels is a long, disruptive point-of-attack defender they call 'The Great Barrier Thief.' His work is defensive hand timing, lateral quickness, conditioning and a steadying jumper.",
+    "trainTemplate": "GUARD",
+    "exp": "4 seasons"
+  },
+  {
+    "id": "flagg",
+    "name": "Cooper Flagg",
+    "first": "Cooper",
+    "team": "Dallas Mavericks",
+    "position": "Forward",
+    "number": "32",
+    "height": "6'9\"",
+    "weight": "221 lb",
+    "accent": "#006F9B",
+    "achievements": [
+      {
+        "c": "1",
+        "l": "No. 1 overall pick"
+      },
+      {
+        "c": "1",
+        "l": "College POY"
+      }
+    ],
+    "philosophy": "Flagg is a two-way phenom with rare feel, motor and versatility for his age. Training blends explosive power, defensive reads, handle for his size and shot development.",
+    "trainTemplate": "WING",
+    "exp": "1 season"
+  }
+]

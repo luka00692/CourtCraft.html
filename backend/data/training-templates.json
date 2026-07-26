@@ -1,0 +1,332 @@
+{
+  "GUARD": [
+    {
+      "title": "Ball-handling & finishing",
+      "focus": "Elite control under pressure",
+      "day": "Day 1",
+      "exercises": [
+        {
+          "name": "Two-ball dribbling series",
+          "prescription": "5 × 45s",
+          "note": "Alternating, crossover and low-pound combos at game speed."
+        },
+        {
+          "name": "Cone attack + finishes",
+          "prescription": "6 × 6 reps",
+          "note": "Change of pace into euro-step, floater and reverse layups."
+        },
+        {
+          "name": "Tight-space handle work",
+          "prescription": "4 × 40s",
+          "note": "In-and-out, behind-back and hesitation in a 1m box."
+        },
+        {
+          "name": "Contact finishing (pad)",
+          "prescription": "5 × 8",
+          "note": "Absorb a bump, finish through with both hands."
+        }
+      ]
+    },
+    {
+      "title": "Shooting off the dribble",
+      "focus": "Volume + shot quality",
+      "day": "Day 2",
+      "exercises": [
+        {
+          "name": "Form shooting close-out",
+          "prescription": "3 × 25 makes",
+          "note": "One-hand then two, locking the release point."
+        },
+        {
+          "name": "Pull-up mid-range series",
+          "prescription": "5 spots × 10",
+          "note": "One-dribble pull-ups off both directions."
+        },
+        {
+          "name": "Step-back threes",
+          "prescription": "5 × 10 makes",
+          "note": "Create space, land balanced, hold follow-through."
+        },
+        {
+          "name": "Catch-and-shoot 3s",
+          "prescription": "200 makes",
+          "note": "Off relocation and screens, on the move."
+        }
+      ]
+    },
+    {
+      "title": "Speed, agility & core",
+      "focus": "First-step & change of direction",
+      "day": "Day 3",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "prescription": "4 × 8/side",
+          "note": "Stick the landing, build hip stability."
+        },
+        {
+          "name": "Resisted sprints",
+          "prescription": "6 × 15m",
+          "note": "Band or sled for explosive first step."
+        },
+        {
+          "name": "Ladder + reaction cuts",
+          "prescription": "5 rounds",
+          "note": "Fast feet into a coach-called cut."
+        },
+        {
+          "name": "Anti-rotation core (Pallof)",
+          "prescription": "3 × 12/side",
+          "note": "Brace the trunk for finishing through contact."
+        }
+      ]
+    },
+    {
+      "title": "Strength base",
+      "focus": "Durability for an 82-game grind",
+      "day": "Day 4",
+      "exercises": [
+        {
+          "name": "Trap-bar deadlift",
+          "prescription": "4 × 5",
+          "note": "Lower-body power without heavy spinal load."
+        },
+        {
+          "name": "Bulgarian split squat",
+          "prescription": "3 × 8/leg",
+          "note": "Single-leg strength and balance."
+        },
+        {
+          "name": "Weighted pull-ups",
+          "prescription": "4 × 6",
+          "note": "Upper-back strength for finishing and defense."
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "prescription": "3 × 6",
+          "note": "Hamstring health, sprint protection."
+        }
+      ]
+    }
+  ],
+  "WING": [
+    {
+      "title": "Shot creation",
+      "focus": "Score from all three levels",
+      "day": "Day 1",
+      "exercises": [
+        {
+          "name": "Jab-series into pull-up",
+          "prescription": "5 spots × 8",
+          "note": "Sell the jab, rise into a balanced jumper."
+        },
+        {
+          "name": "Iso attack finishes",
+          "prescription": "6 × 6",
+          "note": "Face-up, one dribble, finish over length."
+        },
+        {
+          "name": "Mid-post turnarounds",
+          "prescription": "4 × 10/side",
+          "note": "Footwork into fadeaway and up-and-under."
+        },
+        {
+          "name": "Transition pull-ups",
+          "prescription": "5 × 8",
+          "note": "Sprint the floor, decelerate, knock it down."
+        }
+      ]
+    },
+    {
+      "title": "Shooting volume",
+      "focus": "Consistent, repeatable stroke",
+      "day": "Day 2",
+      "exercises": [
+        {
+          "name": "Guided form shooting",
+          "prescription": "3 × 25 makes",
+          "note": "Fix the base, elbow and follow-through."
+        },
+        {
+          "name": "Catch-and-shoot 3s",
+          "prescription": "250 makes",
+          "note": "Spot-up and off relocation."
+        },
+        {
+          "name": "Movement 3s off screens",
+          "prescription": "5 × 10 makes",
+          "note": "Come off tight, square and fire."
+        },
+        {
+          "name": "Free throws under fatigue",
+          "prescription": "10 × 2",
+          "note": "After sprints, simulate late-game legs."
+        }
+      ]
+    },
+    {
+      "title": "Explosiveness & agility",
+      "focus": "Two-way athleticism",
+      "day": "Day 3",
+      "exercises": [
+        {
+          "name": "Depth jumps to box",
+          "prescription": "4 × 5",
+          "note": "Reactive power for finishing and blocks."
+        },
+        {
+          "name": "Defensive slide circuit",
+          "prescription": "5 × 30s",
+          "note": "Stay low, mirror, close out."
+        },
+        {
+          "name": "Med-ball rotational throws",
+          "prescription": "4 × 6/side",
+          "note": "Transfer power through the hips."
+        },
+        {
+          "name": "Sprint-decel ladders",
+          "prescription": "6 rounds",
+          "note": "Control the stop to change direction."
+        }
+      ]
+    },
+    {
+      "title": "Strength & resilience",
+      "focus": "Absorb contact, stay healthy",
+      "day": "Day 4",
+      "exercises": [
+        {
+          "name": "Back squat",
+          "prescription": "4 × 5",
+          "note": "Foundational lower-body strength."
+        },
+        {
+          "name": "Weighted step-ups",
+          "prescription": "3 × 8/leg",
+          "note": "Single-leg drive for finishing."
+        },
+        {
+          "name": "Bench + row superset",
+          "prescription": "4 × 8",
+          "note": "Balanced upper-body push/pull."
+        },
+        {
+          "name": "Shoulder & cuff prep",
+          "prescription": "3 × 12",
+          "note": "Keep the shooting shoulder durable."
+        }
+      ]
+    }
+  ],
+  "BIG": [
+    {
+      "title": "Footwork & touch",
+      "focus": "Efficient scoring inside",
+      "day": "Day 1",
+      "exercises": [
+        {
+          "name": "Mikan & reverse Mikan",
+          "prescription": "4 × 20",
+          "note": "Soft touch with both hands at the rim."
+        },
+        {
+          "name": "Post-move series",
+          "prescription": "5 × 6/side",
+          "note": "Drop step, jump hook, up-and-under."
+        },
+        {
+          "name": "Short-roll decisions",
+          "prescription": "5 × 8",
+          "note": "Catch on the move, finish or kick."
+        },
+        {
+          "name": "Face-up drive & floater",
+          "prescription": "5 spots × 8",
+          "note": "Attack a close-out from the elbow."
+        }
+      ]
+    },
+    {
+      "title": "Range & passing",
+      "focus": "Modern stretch-big skills",
+      "day": "Day 2",
+      "exercises": [
+        {
+          "name": "Form-to-3 shooting",
+          "prescription": "3 × 20 makes",
+          "note": "Extend the same stroke to the arc."
+        },
+        {
+          "name": "Pick-and-pop 3s",
+          "prescription": "5 × 10 makes",
+          "note": "Screen, relocate, catch and shoot."
+        },
+        {
+          "name": "High-post passing reads",
+          "prescription": "5 × 10",
+          "note": "Hit cutters and shooters from the elbow."
+        },
+        {
+          "name": "Free throws",
+          "prescription": "10 × 10",
+          "note": "Repeatable routine, high volume."
+        }
+      ]
+    },
+    {
+      "title": "Rim protection & mobility",
+      "focus": "Anchor the defense",
+      "day": "Day 3",
+      "exercises": [
+        {
+          "name": "Vertical contest jumps",
+          "prescription": "5 × 6",
+          "note": "Contest without fouling, land balanced."
+        },
+        {
+          "name": "Lateral drop-coverage",
+          "prescription": "5 × 30s",
+          "note": "Slide with guards, recover to the rim."
+        },
+        {
+          "name": "Rebound & outlet",
+          "prescription": "5 × 8",
+          "note": "Box out, secure, start the break."
+        },
+        {
+          "name": "Hip mobility flow",
+          "prescription": "3 rounds",
+          "note": "Keep big hips loose and springy."
+        }
+      ]
+    },
+    {
+      "title": "Power & mass",
+      "focus": "Own the paint",
+      "day": "Day 4",
+      "exercises": [
+        {
+          "name": "Front squat",
+          "prescription": "4 × 5",
+          "note": "Posture and leg drive for post work."
+        },
+        {
+          "name": "Trap-bar jump",
+          "prescription": "5 × 3",
+          "note": "Explosive power off two feet."
+        },
+        {
+          "name": "Heavy carries",
+          "prescription": "4 × 30m",
+          "note": "Core and grip strength for battles."
+        },
+        {
+          "name": "Overhead press",
+          "prescription": "4 × 6",
+          "note": "Finishing strength through contact."
+        }
+      ]
+    }
+  ]
+}
