@@ -64,13 +64,35 @@ node backend/scripts/generate-season.js 2027-2028
 ```
 
 This reads `data/seasons/index.json` to find the latest season, projects the
-next one, writes `data/seasons/2027-2028.json`, and marks it `current`.
-Commit the result — the frontend picks up new seasons automatically from
-`GET /api/seasons`.
+next one, and writes `data/seasons/2027-2028.json` with `"status": "projected"`.
+It does **not** touch `current` — see below.
 
-To correct a projection with real reported stats once a season actually
-happens, just hand-edit that season's JSON file directly; the engine is only
-used for seasons that haven't happened yet.
+## Promoting a season
+
+`seasons/index.json`'s `current` field is what the site defaults to for every
+visitor, so it must only ever point at a season with **real** stats — never
+a projection, even after that season has technically tipped off. Showing
+placeholder aging-curve numbers as if they were this year's actual stats
+would be misleading.
+
+So the flow for a new season is two steps, done at two different times:
+
+1. **Right away** (offseason): `generate-season.js` creates the projection.
+   It's immediately selectable in the site's season dropdown, clearly marked
+   "projected" — but it is not the default.
+2. **Once real games have been played and real stats are known**: hand-edit
+   that season's `data/seasons/<season>.json` — replace the projected `stats`
+   and `trainingFocus` with real reported numbers, and change `"status"` from
+   `"projected"` to `"in-progress"` or `"completed"`. Then run:
+
+   ```
+   node backend/scripts/promote-season.js 2026-2027
+   ```
+
+   This refuses to run (on purpose) if the season's `status` is still
+   `"projected"`, so a season can't accidentally go live with placeholder
+   numbers. Commit the result — the frontend picks up the new default
+   automatically from `GET /api/seasons`.
 
 ## Deploying
 

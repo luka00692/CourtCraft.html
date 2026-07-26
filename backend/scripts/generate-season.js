@@ -30,8 +30,13 @@ const next = projectSeason(latestSeason, roster, nextSeasonLabel);
 
 fs.writeFileSync(path.join(DATA_DIR, 'seasons', `${nextSeasonLabel}.json`), JSON.stringify(next, null, 2));
 
+// Deliberately NOT promoted to `current`: this season's stats are a
+// projection (status: "projected"), not real reported numbers, so the site
+// must keep defaulting to the last real season until someone replaces the
+// projection with actual stats and promotes it — see
+// backend/README.md#promoting-a-season.
 seasonsIndex.seasons.push(nextSeasonLabel);
-seasonsIndex.current = nextSeasonLabel;
 fs.writeFileSync(path.join(DATA_DIR, 'seasons', 'index.json'), JSON.stringify(seasonsIndex, null, 2));
 
-console.log(`Generated data/seasons/${nextSeasonLabel}.json from ${latestLabel}, set as current season.`);
+console.log(`Generated data/seasons/${nextSeasonLabel}.json from ${latestLabel} (projected, not yet current).`);
+console.log(`It's selectable in the dropdown, but the site keeps defaulting to "${seasonsIndex.current}" until you promote it — see backend/README.md#promoting-a-season.`);

@@ -3,5 +3,6 @@
     "2025-2026",
     "2026-2027"
   ],
-  "current": "2026-2027"
+  "current": "2025-2026",
+  "note": "`current` is the season shown by default and must be promoted manually — see backend/README.md#promoting-a-season. A season stays out of `current` while its stats are still a projection (status: \"projected\"), even after it's been generated and even after it has technically tipped off, until real reported stats replace the projection."
 }
