@@ -74,31 +74,31 @@ const STAT_LABELS = {
 
 const STAT_EXERCISES = {
   ppg: [
-    { name: 'Game-speed scoring reps', prescription: '6 × 8', note: 'Combine footwork, one dribble and a finish at full pace.' },
-    { name: 'Shot-selection film + reps', prescription: '20 min + 4 × 10', note: 'Rehearse the shots the season plan calls for most.' },
+    { name: 'Game-speed scoring reps', prescription: '6 × 8', note: 'Combine footwork, one dribble and a finish at full pace. Slow, controlled reps don’t transfer to games — every rep here should be run at the tempo an actual possession demands.' },
+    { name: 'Shot-selection film + reps', prescription: '20 min + 4 × 10', note: 'Rehearse the shots the season plan calls for most. Watch the clip, then immediately walk onto the floor and shoot that exact shot — pairing film with reps locks in the habit far faster than either alone.' },
   ],
   rpg: [
-    { name: 'Box-out & pursuit drills', prescription: '5 × 6', note: 'Contact, seal, and go get the ball off the rim.' },
-    { name: 'Anticipation rebounding', prescription: '4 × 10', note: 'React off missed-shot angles, not just position.' },
+    { name: 'Box-out & pursuit drills', prescription: '5 × 6', note: 'Contact, seal, and go get the ball off the rim. Find the body of the opponent before the shot even goes up — rebounding position is won before the ball arrives, not after.' },
+    { name: 'Anticipation rebounding', prescription: '4 × 10', note: 'React off missed-shot angles, not just position. Study where long and short misses tend to bounce from each shot location so the pursuit becomes instinctive rather than reactive.' },
   ],
   apg: [
-    { name: 'Live-read passing series', prescription: '5 × 10', note: 'Advantage creation into a live decision, not a script.' },
-    { name: 'Pick-and-roll manipulation', prescription: '5 × 8', note: 'Change speeds and angles to open a passing window.' },
+    { name: 'Live-read passing series', prescription: '5 × 10', note: 'Advantage creation into a live decision, not a script. A defender reacts live rather than following a set pattern, so every pass has to answer what the defense is actually doing.' },
+    { name: 'Pick-and-roll manipulation', prescription: '5 × 8', note: 'Change speeds and angles to open a passing window. A hard, then slow, then hard again attack rhythm is what actually breaks pick-and-roll coverages down over a season.' },
   ],
   spg: [
-    { name: 'Passing-lane anticipation', prescription: '5 × 30s', note: 'Read the ball-handler’s eyes and hips to jump the lane.' },
-    { name: 'Closeout-to-strip drills', prescription: '4 × 8', note: 'Controlled closeouts that end in a strip, not a foul.' },
+    { name: 'Passing-lane anticipation', prescription: '5 × 30s', note: 'Read the ball-handler’s eyes and hips to jump the lane. The eyes give away the pass a half-second before the hands do — train the read, not just the reaction.' },
+    { name: 'Closeout-to-strip drills', prescription: '4 × 8', note: 'Controlled closeouts that end in a strip, not a foul. Attack the ball with the back hand while staying in a legal, balanced stance, so the steal doesn’t turn into a cheap foul.' },
   ],
   fg: [
-    { name: 'Contact finishing at the rim', prescription: '5 × 8', note: 'Absorb the bump, finish with either hand.' },
-    { name: 'Footwork-first post/drive reps', prescription: '4 × 10', note: 'Clean footwork before touch — speed comes second.' },
+    { name: 'Contact finishing at the rim', prescription: '5 × 8', note: 'Absorb the bump, finish with either hand. A defender delivers real contact mid-rep so the body learns to stay on target through the hit instead of drifting off balance.' },
+    { name: 'Footwork-first post/drive reps', prescription: '4 × 10', note: 'Clean footwork before touch — speed comes second. Most missed finishes trace back to a rushed or mistimed gather step, not a bad touch around the rim.' },
   ],
   tp: [
-    { name: 'Form shooting reset', prescription: '3 × 25 makes', note: 'Rebuild the base, elbow alignment and follow-through.' },
-    { name: 'Catch-and-shoot volume', prescription: '200 makes', note: 'High-rep, game-spot repetition to rebuild rhythm.' },
+    { name: 'Form shooting reset', prescription: '3 × 25 makes', note: 'Rebuild the base, elbow alignment and follow-through. Go back to close-range, slow-motion reps first — fixing the mechanics here is what makes the volume work later actually count.' },
+    { name: 'Catch-and-shoot volume', prescription: '200 makes', note: 'High-rep, game-spot repetition to rebuild rhythm. The shot should look and feel identical on make 200 as it did on make 1 — that repeatability is the whole point of the volume.' },
   ],
   ft: [
-    { name: 'Routine-locked free throws', prescription: '10 × 10', note: 'Same pre-shot routine every rep, under mild fatigue.' },
+    { name: 'Routine-locked free throws', prescription: '10 × 10', note: 'Same pre-shot routine every rep, under mild fatigue. Practicing this winded, after conditioning work, mirrors the exact state free throws actually get shot in during a real fourth quarter.' },
   ],
 };
 
