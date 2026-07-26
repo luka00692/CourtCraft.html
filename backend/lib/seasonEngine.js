@@ -34,6 +34,34 @@ function projectShooting(value, growthPoints) {
   return clamp(Math.round(value + growthPoints), 20, 99);
 }
 
+function regressCounting(value, growth) {
+  const n = parseFloat(value);
+  return (Math.round((n / (1 + growth)) * 10) / 10).toFixed(1);
+}
+
+function regressShooting(value, growthPoints) {
+  return clamp(Math.round(value - growthPoints), 20, 99);
+}
+
+// Deterministic, reproducible "games played" filler (0-82, NBA regular season
+// length) — there's no real box-score feed behind this site, so this stands
+// in for it the same way the rest of the stats do. Seeded off the player id
+// + season so it's stable across regenerations, and varies per season rather
+// than repeating the same number every year.
+function hashSeed(str) {
+  let h = 2166136261;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return Math.abs(h);
+}
+
+function computeGamesPlayed(playerId, seasonLabel) {
+  const seed = hashSeed(`${playerId}:${seasonLabel}`);
+  return 82 - (seed % 19); // 64-82 games: healthy-to-load-managed range
+}
+
 const STAT_LABELS = {
   ppg: 'scoring',
   rpg: 'rebounding',
@@ -77,7 +105,7 @@ const STAT_EXERCISES = {
 /**
  * Projects next season's stats for one player from their previous-season stats.
  */
-function projectPlayerStats(prevStats, expLabel) {
+function projectPlayerStats(prevStats, expLabel, seasonLabel, playerId) {
   const years = parseYears(expLabel);
   const curve = curveFor(years);
   return {
@@ -88,12 +116,40 @@ function projectPlayerStats(prevStats, expLabel) {
     fg: projectShooting(prevStats.fg, curve.shootingGrowth),
     tp: projectShooting(prevStats.tp, curve.shootingGrowth),
     ft: projectShooting(prevStats.ft, curve.shootingGrowth),
+    gp: computeGamesPlayed(playerId, seasonLabel),
+  };
+}
+
+/**
+ * Regresses one season back: given the stats a player had in the LATER
+ * season, and their experience as of the EARLIER (target) season, derives
+ * what their earlier-season stats would have been — the inverse of
+ * projectPlayerStats. Used to backfill historical seasons before the site's
+ * baseline snapshot.
+ */
+function regressPlayerStats(laterStats, earlierExpLabel, earlierSeasonLabel, playerId) {
+  const years = parseYears(earlierExpLabel);
+  const curve = curveFor(years);
+  return {
+    ppg: regressCounting(laterStats.ppg, curve.countingGrowth),
+    rpg: regressCounting(laterStats.rpg, curve.countingGrowth),
+    apg: regressCounting(laterStats.apg, curve.countingGrowth),
+    spg: regressCounting(laterStats.spg, curve.countingGrowth),
+    fg: regressShooting(laterStats.fg, curve.shootingGrowth),
+    tp: regressShooting(laterStats.tp, curve.shootingGrowth),
+    ft: regressShooting(laterStats.ft, curve.shootingGrowth),
+    gp: computeGamesPlayed(playerId, earlierSeasonLabel),
   };
 }
 
 function incrementExp(expLabel) {
   const years = parseYears(expLabel) + 1;
   return `${years} season${years === 1 ? '' : 's'}`;
+}
+
+function decrementExp(expLabel) {
+  const years = parseYears(expLabel) - 1;
+  return years;
 }
 
 /**
@@ -131,7 +187,7 @@ function projectSeason(prevSeasonData, roster, nextSeasonLabel) {
   for (const p of roster) {
     const prev = prevSeasonData.stats[p.id];
     if (!prev) continue;
-    const nextStats = projectPlayerStats(prev, p.exp);
+    const nextStats = projectPlayerStats(prev, p.exp, nextSeasonLabel, p.id);
     stats[p.id] = nextStats;
     trainingFocus[p.id] = buildTrainingFocus(prev, nextStats, nextSeasonLabel);
     expByPlayer[p.id] = incrementExp(p.exp);
@@ -147,4 +203,44 @@ function projectSeason(prevSeasonData, roster, nextSeasonLabel) {
   };
 }
 
-module.exports = { projectSeason, projectPlayerStats, buildTrainingFocus, incrementExp };
+/**
+ * Regresses a full season file backward from the next-known season, for
+ * backfilling seasons before the site's baseline. Players not yet in the
+ * league that far back (years of experience would be < 1) are omitted
+ * entirely — they simply have no data for that season, same as in reality.
+ */
+function regressSeason(laterSeasonData, roster, earlierSeasonLabel) {
+  const stats = {};
+  const expByPlayer = {};
+
+  for (const p of roster) {
+    const later = laterSeasonData.stats[p.id];
+    if (!later) continue;
+    const laterYears = laterSeasonData.expByPlayer ? parseYears(laterSeasonData.expByPlayer[p.id]) : parseYears(p.exp);
+    const earlierYears = laterYears - 1;
+    if (earlierYears < 1) continue; // wasn't in the league yet
+    const earlierExpLabel = `${earlierYears} season${earlierYears === 1 ? '' : 's'}`;
+    stats[p.id] = regressPlayerStats(later, earlierExpLabel, earlierSeasonLabel, p.id);
+    expByPlayer[p.id] = earlierExpLabel;
+  }
+
+  return {
+    season: earlierSeasonLabel,
+    status: 'historical',
+    generatedBy: `engine:v1 (regressed) from ${laterSeasonData.season}`,
+    stats,
+    trainingFocus: {},
+    expByPlayer,
+  };
+}
+
+module.exports = {
+  projectSeason,
+  regressSeason,
+  projectPlayerStats,
+  regressPlayerStats,
+  buildTrainingFocus,
+  incrementExp,
+  decrementExp,
+  computeGamesPlayed,
+};

@@ -7,6 +7,7 @@
     "start": "node backend/server.js",
     "dev": "node backend/server.js",
     "generate-season": "node backend/scripts/generate-season.js",
+    "generate-historical-seasons": "node backend/scripts/generate-historical-seasons.js",
     "promote-season": "node backend/scripts/promote-season.js",
     "build-roster": "node backend/scripts/build-roster.js"
   },

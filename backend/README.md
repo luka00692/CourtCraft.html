@@ -17,16 +17,22 @@ backend/
     training-templates.json  the 3 position-based training templates (GUARD / WING / BIG)
     seasons/
       index.json             which seasons exist + which is "current"
+      2021-2022.json          historical: regressed backward from the baseline
+      2022-2023.json          historical: regressed backward from the baseline
+      2023-2024.json          historical: regressed backward from the baseline
+      2024-2025.json          historical: regressed backward from the baseline
       2025-2026.json          baseline season: real stats snapshot the site shipped with
       2026-2027.json          generated season: projected stats + training focus
   lib/
     store.js                 reads + caches the JSON data files
-    seasonEngine.js           the projection logic used to generate a new season
+    seasonEngine.js           the projection/regression logic used to generate seasons
     handlers.js               request handlers shared by the Express server and the API routes
     cors.js                   public CORS headers
   scripts/
-    build-roster.js          one-time: splits the original static data into roster.json + baseline season
-    generate-season.js       generates the next season from the latest one
+    build-roster.js                    one-time: splits the original static data into roster.json + baseline season
+    generate-season.js                 generates the next (future) season from the latest one
+    generate-historical-seasons.js     backfills seasons before the earliest known one
+    promote-season.js                  makes a season the site's default, once it has real stats
   server.js                  local Express dev server
 ```
 
@@ -49,6 +55,31 @@ Endpoints:
 - `GET /api/seasons/:season/players/:id` — one player's full detail, including the season's training program
 
 All responses are public JSON, `Access-Control-Allow-Origin: *`.
+
+Per-season player stats include `gp` (games played, 0-82) alongside `ppg` /
+`rpg` / `apg` / `spg` / `fg` / `tp` / `ft`. A player not yet in the league
+that season (e.g. a 2024 rookie has no `2021-2022` season) gets `stats: null`
+in the response instead of fabricated numbers — the frontend hides them for
+that season rather than showing a stat line that never happened.
+
+## Historical seasons
+
+```
+node backend/scripts/generate-historical-seasons.js 4
+```
+
+Backfills seasons before the earliest one currently in `seasons/index.json`
+by running the aging curve **in reverse** off the earliest known season —
+same engine as forward projection, just inverted, so a player's stats trend
+down the further back you go (and up if projecting forward). A player whose
+regressed experience would drop below 1 season is left out of that season
+entirely, the same way a rookie has no NBA stats from before they were
+drafted.
+
+These are also placeholder/illustrative numbers, same as the projected
+season — not real historical box scores. If you have real historical stats
+for a season, hand-edit that season's JSON file directly and change its
+`"status"` from `"historical"` to `"completed"`.
 
 ## Adding a new season
 
