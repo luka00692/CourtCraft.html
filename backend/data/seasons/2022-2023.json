@@ -1282,6 +1282,296 @@
       "tp": 37,
       "ft": 79,
       "gp": 67
+    },
+    "jarrett-allen": {
+      "ppg": "14.5",
+      "rpg": "9.8",
+      "apg": "1.7",
+      "spg": "0.7",
+      "fg": 62,
+      "tp": 20,
+      "ft": 69,
+      "gp": 67
+    },
+    "sam-merrill": {
+      "ppg": "8.4",
+      "rpg": "2.2",
+      "apg": "1.6",
+      "spg": "0.6",
+      "fg": 41,
+      "tp": 37,
+      "ft": 85,
+      "gp": 77
+    },
+    "josh-hart": {
+      "ppg": "10.8",
+      "rpg": "7.5",
+      "apg": "4.3",
+      "spg": "1.1",
+      "fg": 45,
+      "tp": 33,
+      "ft": 68,
+      "gp": 64
+    },
+    "mitchell-robinson": {
+      "ppg": "6.9",
+      "rpg": "7.9",
+      "apg": "0.8",
+      "spg": "0.6",
+      "fg": 68,
+      "tp": 20,
+      "ft": 60,
+      "gp": 81
+    },
+    "payton-pritchard": {
+      "ppg": "15.1",
+      "rpg": "3.6",
+      "apg": "4.6",
+      "spg": "0.8",
+      "fg": 40,
+      "tp": 35,
+      "ft": 84,
+      "gp": 82
+    },
+    "sam-hauser": {
+      "ppg": "7.4",
+      "rpg": "2.5",
+      "apg": "0.8",
+      "spg": "0.5",
+      "fg": 42,
+      "tp": 38,
+      "ft": 82,
+      "gp": 71
+    },
+    "jakob-poeltl": {
+      "ppg": "11.9",
+      "rpg": "9.0",
+      "apg": "3.1",
+      "spg": "0.8",
+      "fg": 63,
+      "tp": 20,
+      "ft": 67,
+      "gp": 69
+    },
+    "kevin-huerter": {
+      "ppg": "10.1",
+      "rpg": "3.0",
+      "apg": "2.7",
+      "spg": "0.8",
+      "fg": 41,
+      "tp": 35,
+      "ft": 79,
+      "gp": 64
+    },
+    "khris-middleton": {
+      "ppg": "16.4",
+      "rpg": "4.6",
+      "apg": "4.4",
+      "spg": "0.9",
+      "fg": 48,
+      "tp": 39,
+      "ft": 89,
+      "gp": 65
+    },
+    "grayson-allen": {
+      "ppg": "12.8",
+      "rpg": "3.2",
+      "apg": "2.7",
+      "spg": "0.9",
+      "fg": 43,
+      "tp": 39,
+      "ft": 85,
+      "gp": 76
+    },
+    "royce-oneale": {
+      "ppg": "8.8",
+      "rpg": "4.8",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 42,
+      "tp": 36,
+      "ft": 76,
+      "gp": 67
+    },
+    "goga-bitadze": {
+      "ppg": "7.9",
+      "rpg": "6.2",
+      "apg": "1.0",
+      "spg": "0.5",
+      "fg": 55,
+      "tp": 30,
+      "ft": 69,
+      "gp": 64
+    },
+    "davion-mitchell": {
+      "ppg": "7.7",
+      "rpg": "2.4",
+      "apg": "4.0",
+      "spg": "1.2",
+      "fg": 43,
+      "tp": 31,
+      "ft": 72,
+      "gp": 77
+    },
+    "isaiah-stewart": {
+      "ppg": "9.3",
+      "rpg": "7.2",
+      "apg": "1.1",
+      "spg": "0.6",
+      "fg": 52,
+      "tp": 29,
+      "ft": 70,
+      "gp": 65
+    },
+    "ochai-agbaji": {
+      "ppg": "8.4",
+      "rpg": "2.6",
+      "apg": "1.2",
+      "spg": "0.8",
+      "fg": 43,
+      "tp": 35,
+      "ft": 75,
+      "gp": 72
+    },
+    "cam-johnson": {
+      "ppg": "17.3",
+      "rpg": "3.9",
+      "apg": "2.2",
+      "spg": "0.8",
+      "fg": 45,
+      "tp": 36,
+      "ft": 86,
+      "gp": 66
+    },
+    "tim-hardaway-jr": {
+      "ppg": "12.7",
+      "rpg": "3.0",
+      "apg": "2.0",
+      "spg": "0.7",
+      "fg": 43,
+      "tp": 37,
+      "ft": 84,
+      "gp": 74
+    },
+    "mark-williams": {
+      "ppg": "12.8",
+      "rpg": "8.6",
+      "apg": "2.2",
+      "spg": "0.7",
+      "fg": 59,
+      "tp": 20,
+      "ft": 69,
+      "gp": 70
+    },
+    "dillon-brooks": {
+      "ppg": "13.6",
+      "rpg": "3.6",
+      "apg": "1.8",
+      "spg": "1.0",
+      "fg": 41,
+      "tp": 34,
+      "ft": 76,
+      "gp": 76
+    },
+    "marcus-smart": {
+      "ppg": "11.2",
+      "rpg": "3.2",
+      "apg": "5.0",
+      "spg": "1.6",
+      "fg": 41,
+      "tp": 33,
+      "ft": 80,
+      "gp": 65
+    },
+    "john-collins": {
+      "ppg": "16.3",
+      "rpg": "7.0",
+      "apg": "1.8",
+      "spg": "0.7",
+      "fg": 51,
+      "tp": 36,
+      "ft": 80,
+      "gp": 72
+    },
+    "naji-marshall": {
+      "ppg": "13.6",
+      "rpg": "4.2",
+      "apg": "2.9",
+      "spg": "1.0",
+      "fg": 43,
+      "tp": 31,
+      "ft": 73,
+      "gp": 70
+    },
+    "jusuf-nurkic": {
+      "ppg": "10.2",
+      "rpg": "8.2",
+      "apg": "3.0",
+      "spg": "0.6",
+      "fg": 51,
+      "tp": 28,
+      "ft": 70,
+      "gp": 72
+    },
+    "harrison-barnes": {
+      "ppg": "10.0",
+      "rpg": "2.9",
+      "apg": "1.9",
+      "spg": "0.6",
+      "fg": 47,
+      "tp": 40,
+      "ft": 86,
+      "gp": 79
+    },
+    "jerami-grant": {
+      "ppg": "15.9",
+      "rpg": "3.8",
+      "apg": "2.0",
+      "spg": "0.7",
+      "fg": 43,
+      "tp": 37,
+      "ft": 84,
+      "gp": 80
+    },
+    "jake-laravia": {
+      "ppg": "8.8",
+      "rpg": "3.8",
+      "apg": "1.9",
+      "spg": "0.8",
+      "fg": 43,
+      "tp": 33,
+      "ft": 73,
+      "gp": 66
+    },
+    "eric-gordon": {
+      "ppg": "10.4",
+      "rpg": "2.3",
+      "apg": "2.1",
+      "spg": "0.6",
+      "fg": 46,
+      "tp": 42,
+      "ft": 89,
+      "gp": 78
+    },
+    "saddiq-bey": {
+      "ppg": "12.0",
+      "rpg": "4.3",
+      "apg": "1.4",
+      "spg": "0.7",
+      "fg": 40,
+      "tp": 34,
+      "ft": 79,
+      "gp": 73
+    },
+    "ziaire-williams": {
+      "ppg": "8.8",
+      "rpg": "2.3",
+      "apg": "1.1",
+      "spg": "1.1",
+      "fg": 43,
+      "tp": 33,
+      "ft": 75,
+      "gp": 67
     }
   },
   "trainingFocus": {},
@@ -1413,6 +1703,35 @@
     "trey-murphy-iii": "2 seasons",
     "andrew-nembhard": "1 season",
     "bennedict-mathurin": "1 season",
-    "aaron-nesmith": "3 seasons"
+    "aaron-nesmith": "3 seasons",
+    "jarrett-allen": "6 seasons",
+    "sam-merrill": "3 seasons",
+    "josh-hart": "6 seasons",
+    "mitchell-robinson": "5 seasons",
+    "payton-pritchard": "3 seasons",
+    "sam-hauser": "2 seasons",
+    "jakob-poeltl": "7 seasons",
+    "kevin-huerter": "5 seasons",
+    "khris-middleton": "11 seasons",
+    "grayson-allen": "5 seasons",
+    "royce-oneale": "6 seasons",
+    "goga-bitadze": "4 seasons",
+    "davion-mitchell": "2 seasons",
+    "isaiah-stewart": "3 seasons",
+    "ochai-agbaji": "1 season",
+    "cam-johnson": "4 seasons",
+    "tim-hardaway-jr": "10 seasons",
+    "mark-williams": "1 season",
+    "dillon-brooks": "6 seasons",
+    "marcus-smart": "9 seasons",
+    "john-collins": "6 seasons",
+    "naji-marshall": "3 seasons",
+    "jusuf-nurkic": "9 seasons",
+    "harrison-barnes": "11 seasons",
+    "jerami-grant": "9 seasons",
+    "jake-laravia": "1 season",
+    "eric-gordon": "15 seasons",
+    "saddiq-bey": "3 seasons",
+    "ziaire-williams": "2 seasons"
   }
 }
